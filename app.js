@@ -402,6 +402,27 @@ function repositionDropdowns() {
 window.addEventListener("scroll", repositionDropdowns, { passive: true });
 window.addEventListener("resize", repositionDropdowns, { passive: true });
 
+// ── Install prompt ───────────────────────────────────────────────────────────
+let installPrompt;
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  installPrompt = e;
+  document.getElementById("btn-install").style.display = "inline-block";
+});
+
+document.getElementById("btn-install").addEventListener("click", () => {
+  if (!installPrompt) return;
+  installPrompt.prompt();
+  installPrompt = null;
+  document.getElementById("btn-install").style.display = "none";
+});
+
+window.addEventListener("appinstalled", () => {
+  document.getElementById("btn-install").style.display = "none";
+  installPrompt = null;
+});
+
 // ── Init ─────────────────────────────────────────────────────────────────────
 document.getElementById("btn-add").addEventListener("click", addRow);
 document.getElementById("btn-clr").addEventListener("click", resetAll);
