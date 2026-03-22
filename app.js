@@ -388,3 +388,8 @@ document.getElementById("btn-clr").addEventListener("click", resetAll);
 document.getElementById("btn-calc").addEventListener("click", calculate);
 
 tryAutoLoad().then(() => addRow());
+
+// ── Service worker ────────────────────────────────────────────────────────────
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("/nutrify/sw.js");
+}
