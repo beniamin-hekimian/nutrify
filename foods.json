@@ -1,0 +1,4802 @@
+[
+  {
+    "name": "Chicken breast",
+    "category": "Meat & poultry",
+    "calories": "120",
+    "protein": "22.5",
+    "carbs": "0",
+    "fat": "2.6"
+  },
+  {
+    "name": "Chicken thigh",
+    "category": "Meat & poultry",
+    "calories": "177",
+    "protein": "17.9",
+    "carbs": "0",
+    "fat": "11.5"
+  },
+  {
+    "name": "Chicken leg",
+    "category": "Meat & poultry",
+    "calories": "161",
+    "protein": "18.1",
+    "carbs": "0",
+    "fat": "9.4"
+  },
+  {
+    "name": "Chicken wing",
+    "category": "Meat & poultry",
+    "calories": "194",
+    "protein": "18.3",
+    "carbs": "0",
+    "fat": "13"
+  },
+  {
+    "name": "Chicken drumstick",
+    "category": "Meat & poultry",
+    "calories": "172",
+    "protein": "18.4",
+    "carbs": "0",
+    "fat": "10.5"
+  },
+  {
+    "name": "Chicken liver",
+    "category": "Meat & poultry",
+    "calories": "119",
+    "protein": "16.9",
+    "carbs": "0.7",
+    "fat": "4.8"
+  },
+  {
+    "name": "Chicken heart",
+    "category": "Meat & poultry",
+    "calories": "153",
+    "protein": "15.6",
+    "carbs": "0.1",
+    "fat": "9.3"
+  },
+  {
+    "name": "Whole chicken",
+    "category": "Meat & poultry",
+    "calories": "215",
+    "protein": "18",
+    "carbs": "0",
+    "fat": "15.1"
+  },
+  {
+    "name": "Turkey breast",
+    "category": "Meat & poultry",
+    "calories": "104",
+    "protein": "21.8",
+    "carbs": "0",
+    "fat": "1.4"
+  },
+  {
+    "name": "Turkey leg",
+    "category": "Meat & poultry",
+    "calories": "144",
+    "protein": "20.1",
+    "carbs": "0",
+    "fat": "6.6"
+  },
+  {
+    "name": "Ground turkey",
+    "category": "Meat & poultry",
+    "calories": "149",
+    "protein": "17.4",
+    "carbs": "0",
+    "fat": "8.3"
+  },
+  {
+    "name": "Turkey liver",
+    "category": "Meat & poultry",
+    "calories": "140",
+    "protein": "18.8",
+    "carbs": "3.7",
+    "fat": "4.9"
+  },
+  {
+    "name": "Duck breast",
+    "category": "Meat & poultry",
+    "calories": "133",
+    "protein": "18.3",
+    "carbs": "0",
+    "fat": "6.3"
+  },
+  {
+    "name": "Duck leg",
+    "category": "Meat & poultry",
+    "calories": "155",
+    "protein": "17.6",
+    "carbs": "0",
+    "fat": "9.2"
+  },
+  {
+    "name": "Whole duck",
+    "category": "Meat & poultry",
+    "calories": "337",
+    "protein": "11.5",
+    "carbs": "0",
+    "fat": "28.4"
+  },
+  {
+    "name": "Goose breast",
+    "category": "Meat & poultry",
+    "calories": "161",
+    "protein": "22.8",
+    "carbs": "0",
+    "fat": "7.4"
+  },
+  {
+    "name": "Beef sirloin",
+    "category": "Meat & poultry",
+    "calories": "174",
+    "protein": "20.5",
+    "carbs": "0",
+    "fat": "9.7"
+  },
+  {
+    "name": "Beef tenderloin",
+    "category": "Meat & poultry",
+    "calories": "187",
+    "protein": "20",
+    "carbs": "0",
+    "fat": "11.6"
+  },
+  {
+    "name": "Beef ribeye",
+    "category": "Meat & poultry",
+    "calories": "291",
+    "protein": "17.4",
+    "carbs": "0",
+    "fat": "24.1"
+  },
+  {
+    "name": "Beef chuck",
+    "category": "Meat & poultry",
+    "calories": "207",
+    "protein": "19.1",
+    "carbs": "0",
+    "fat": "13.8"
+  },
+  {
+    "name": "Beef brisket",
+    "category": "Meat & poultry",
+    "calories": "218",
+    "protein": "17.6",
+    "carbs": "0",
+    "fat": "16"
+  },
+  {
+    "name": "Beef rump",
+    "category": "Meat & poultry",
+    "calories": "159",
+    "protein": "21.3",
+    "carbs": "0",
+    "fat": "7.9"
+  },
+  {
+    "name": "Beef short ribs",
+    "category": "Meat & poultry",
+    "calories": "307",
+    "protein": "15",
+    "carbs": "0",
+    "fat": "26.9"
+  },
+  {
+    "name": "Ground beef (lean)",
+    "category": "Meat & poultry",
+    "calories": "215",
+    "protein": "17.2",
+    "carbs": "0",
+    "fat": "15.8"
+  },
+  {
+    "name": "Ground beef (extra lean)",
+    "category": "Meat & poultry",
+    "calories": "152",
+    "protein": "19.1",
+    "carbs": "0",
+    "fat": "8.1"
+  },
+  {
+    "name": "Beef liver",
+    "category": "Meat & poultry",
+    "calories": "135",
+    "protein": "20.4",
+    "carbs": "3.9",
+    "fat": "3.6"
+  },
+  {
+    "name": "Beef kidney",
+    "category": "Meat & poultry",
+    "calories": "99",
+    "protein": "17.4",
+    "carbs": "0.3",
+    "fat": "3.1"
+  },
+  {
+    "name": "Beef heart",
+    "category": "Meat & poultry",
+    "calories": "112",
+    "protein": "17.7",
+    "carbs": "0.1",
+    "fat": "3.9"
+  },
+  {
+    "name": "Beef tongue",
+    "category": "Meat & poultry",
+    "calories": "224",
+    "protein": "14.9",
+    "carbs": "3.7",
+    "fat": "17.5"
+  },
+  {
+    "name": "Veal leg",
+    "category": "Meat & poultry",
+    "calories": "109",
+    "protein": "20.3",
+    "carbs": "0",
+    "fat": "2.5"
+  },
+  {
+    "name": "Veal chop",
+    "category": "Meat & poultry",
+    "calories": "124",
+    "protein": "19.8",
+    "carbs": "0",
+    "fat": "4.8"
+  },
+  {
+    "name": "Pork loin",
+    "category": "Meat & poultry",
+    "calories": "143",
+    "protein": "20.4",
+    "carbs": "0",
+    "fat": "6.2"
+  },
+  {
+    "name": "Pork tenderloin",
+    "category": "Meat & poultry",
+    "calories": "120",
+    "protein": "22",
+    "carbs": "0",
+    "fat": "3"
+  },
+  {
+    "name": "Pork belly",
+    "category": "Meat & poultry",
+    "calories": "518",
+    "protein": "9.3",
+    "carbs": "0",
+    "fat": "53"
+  },
+  {
+    "name": "Pork shoulder",
+    "category": "Meat & poultry",
+    "calories": "186",
+    "protein": "17.1",
+    "carbs": "0",
+    "fat": "12.6"
+  },
+  {
+    "name": "Pork ribs",
+    "category": "Meat & poultry",
+    "calories": "277",
+    "protein": "14.9",
+    "carbs": "0",
+    "fat": "23.7"
+  },
+  {
+    "name": "Ground pork",
+    "category": "Meat & poultry",
+    "calories": "263",
+    "protein": "17",
+    "carbs": "0",
+    "fat": "21.6"
+  },
+  {
+    "name": "Pork liver",
+    "category": "Meat & poultry",
+    "calories": "134",
+    "protein": "21.4",
+    "carbs": "2.5",
+    "fat": "3.7"
+  },
+  {
+    "name": "Bacon",
+    "category": "Meat & poultry",
+    "calories": "541",
+    "protein": "37",
+    "carbs": "1.4",
+    "fat": "42"
+  },
+  {
+    "name": "Ham",
+    "category": "Meat & poultry",
+    "calories": "163",
+    "protein": "21",
+    "carbs": "1.5",
+    "fat": "7.7"
+  },
+  {
+    "name": "Lamb leg",
+    "category": "Meat & poultry",
+    "calories": "191",
+    "protein": "17.6",
+    "carbs": "0",
+    "fat": "13"
+  },
+  {
+    "name": "Lamb shoulder",
+    "category": "Meat & poultry",
+    "calories": "253",
+    "protein": "14.8",
+    "carbs": "0",
+    "fat": "21.3"
+  },
+  {
+    "name": "Lamb chop",
+    "category": "Meat & poultry",
+    "calories": "235",
+    "protein": "16",
+    "carbs": "0",
+    "fat": "18.8"
+  },
+  {
+    "name": "Ground lamb",
+    "category": "Meat & poultry",
+    "calories": "258",
+    "protein": "16.6",
+    "carbs": "0",
+    "fat": "20.9"
+  },
+  {
+    "name": "Lamb liver",
+    "category": "Meat & poultry",
+    "calories": "139",
+    "protein": "20.4",
+    "carbs": "1.8",
+    "fat": "5"
+  },
+  {
+    "name": "Goat meat",
+    "category": "Meat & poultry",
+    "calories": "109",
+    "protein": "20.6",
+    "carbs": "0",
+    "fat": "2.3"
+  },
+  {
+    "name": "Venison",
+    "category": "Meat & poultry",
+    "calories": "120",
+    "protein": "22.9",
+    "carbs": "0",
+    "fat": "2.4"
+  },
+  {
+    "name": "Rabbit",
+    "category": "Meat & poultry",
+    "calories": "136",
+    "protein": "20.1",
+    "carbs": "0",
+    "fat": "5.6"
+  },
+  {
+    "name": "Bison",
+    "category": "Meat & poultry",
+    "calories": "109",
+    "protein": "21.8",
+    "carbs": "0",
+    "fat": "2"
+  },
+  {
+    "name": "Quail",
+    "category": "Meat & poultry",
+    "calories": "192",
+    "protein": "19.7",
+    "carbs": "0",
+    "fat": "12.1"
+  },
+  {
+    "name": "Salmon",
+    "category": "Fish & seafood",
+    "calories": "208",
+    "protein": "20.4",
+    "carbs": "0.0",
+    "fat": "13.4"
+  },
+  {
+    "name": "Atlantic mackerel",
+    "category": "Fish & seafood",
+    "calories": "205",
+    "protein": "18.6",
+    "carbs": "0.0",
+    "fat": "13.9"
+  },
+  {
+    "name": "Sardine",
+    "category": "Fish & seafood",
+    "calories": "208",
+    "protein": "19.3",
+    "carbs": "0.0",
+    "fat": "14.0"
+  },
+  {
+    "name": "Herring",
+    "category": "Fish & seafood",
+    "calories": "158",
+    "protein": "17.9",
+    "carbs": "0.0",
+    "fat": "9.0"
+  },
+  {
+    "name": "Tuna",
+    "category": "Fish & seafood",
+    "calories": "144",
+    "protein": "23.3",
+    "carbs": "0.0",
+    "fat": "4.9"
+  },
+  {
+    "name": "Cod",
+    "category": "Fish & seafood",
+    "calories": "82",
+    "protein": "17.8",
+    "carbs": "0.0",
+    "fat": "0.7"
+  },
+  {
+    "name": "Haddock",
+    "category": "Fish & seafood",
+    "calories": "87",
+    "protein": "18.9",
+    "carbs": "0.0",
+    "fat": "0.7"
+  },
+  {
+    "name": "Halibut",
+    "category": "Fish & seafood",
+    "calories": "91",
+    "protein": "18.6",
+    "carbs": "0.0",
+    "fat": "1.3"
+  },
+  {
+    "name": "Tilapia",
+    "category": "Fish & seafood",
+    "calories": "96",
+    "protein": "20.1",
+    "carbs": "0.0",
+    "fat": "1.7"
+  },
+  {
+    "name": "Trout",
+    "category": "Fish & seafood",
+    "calories": "148",
+    "protein": "20.8",
+    "carbs": "0.0",
+    "fat": "6.6"
+  },
+  {
+    "name": "Sea bass",
+    "category": "Fish & seafood",
+    "calories": "97",
+    "protein": "18.4",
+    "carbs": "0.0",
+    "fat": "2.0"
+  },
+  {
+    "name": "Sea bream",
+    "category": "Fish & seafood",
+    "calories": "96",
+    "protein": "20.0",
+    "carbs": "0.0",
+    "fat": "1.5"
+  },
+  {
+    "name": "Swordfish",
+    "category": "Fish & seafood",
+    "calories": "121",
+    "protein": "19.8",
+    "carbs": "0.0",
+    "fat": "4.0"
+  },
+  {
+    "name": "Anchovy",
+    "category": "Fish & seafood",
+    "calories": "131",
+    "protein": "20.4",
+    "carbs": "0.0",
+    "fat": "4.8"
+  },
+  {
+    "name": "Snapper",
+    "category": "Fish & seafood",
+    "calories": "100",
+    "protein": "20.5",
+    "carbs": "0.0",
+    "fat": "1.3"
+  },
+  {
+    "name": "Flounder",
+    "category": "Fish & seafood",
+    "calories": "91",
+    "protein": "18.8",
+    "carbs": "0.0",
+    "fat": "1.2"
+  },
+  {
+    "name": "Pollock",
+    "category": "Fish & seafood",
+    "calories": "92",
+    "protein": "19.4",
+    "carbs": "0.0",
+    "fat": "1.0"
+  },
+  {
+    "name": "Catfish",
+    "category": "Fish & seafood",
+    "calories": "116",
+    "protein": "18.0",
+    "carbs": "0.0",
+    "fat": "4.6"
+  },
+  {
+    "name": "Carp",
+    "category": "Fish & seafood",
+    "calories": "127",
+    "protein": "17.8",
+    "carbs": "0.0",
+    "fat": "5.6"
+  },
+  {
+    "name": "Pike",
+    "category": "Fish & seafood",
+    "calories": "88",
+    "protein": "19.3",
+    "carbs": "0.0",
+    "fat": "0.7"
+  },
+  {
+    "name": "Perch",
+    "category": "Fish & seafood",
+    "calories": "91",
+    "protein": "19.5",
+    "carbs": "0.0",
+    "fat": "1.0"
+  },
+  {
+    "name": "Eel",
+    "category": "Fish & seafood",
+    "calories": "184",
+    "protein": "18.4",
+    "carbs": "0.0",
+    "fat": "11.7"
+  },
+  {
+    "name": "Smoked salmon",
+    "category": "Fish & seafood",
+    "calories": "117",
+    "protein": "18.3",
+    "carbs": "0.0",
+    "fat": "4.3"
+  },
+  {
+    "name": "Smoked mackerel",
+    "category": "Fish & seafood",
+    "calories": "305",
+    "protein": "18.9",
+    "carbs": "0.0",
+    "fat": "25.1"
+  },
+  {
+    "name": "Smoked herring",
+    "category": "Fish & seafood",
+    "calories": "217",
+    "protein": "24.6",
+    "carbs": "0.0",
+    "fat": "12.4"
+  },
+  {
+    "name": "Tuna in water (canned)",
+    "category": "Fish & seafood",
+    "calories": "109",
+    "protein": "25.5",
+    "carbs": "0.0",
+    "fat": "0.5"
+  },
+  {
+    "name": "Sardines in oil (canned)",
+    "category": "Fish & seafood",
+    "calories": "208",
+    "protein": "24.6",
+    "carbs": "0.0",
+    "fat": "11.4"
+  },
+  {
+    "name": "Shrimp",
+    "category": "Fish & seafood",
+    "calories": "85",
+    "protein": "18.0",
+    "carbs": "0.2",
+    "fat": "0.9"
+  },
+  {
+    "name": "Prawn",
+    "category": "Fish & seafood",
+    "calories": "89",
+    "protein": "17.6",
+    "carbs": "0.0",
+    "fat": "1.5"
+  },
+  {
+    "name": "Lobster",
+    "category": "Fish & seafood",
+    "calories": "89",
+    "protein": "18.8",
+    "carbs": "0.5",
+    "fat": "0.9"
+  },
+  {
+    "name": "Crab",
+    "category": "Fish & seafood",
+    "calories": "87",
+    "protein": "18.1",
+    "carbs": "0.0",
+    "fat": "1.1"
+  },
+  {
+    "name": "Scallop",
+    "category": "Fish & seafood",
+    "calories": "69",
+    "protein": "12.1",
+    "carbs": "3.2",
+    "fat": "0.5"
+  },
+  {
+    "name": "Oyster",
+    "category": "Fish & seafood",
+    "calories": "68",
+    "protein": "7.1",
+    "carbs": "3.9",
+    "fat": "2.5"
+  },
+  {
+    "name": "Mussel",
+    "category": "Fish & seafood",
+    "calories": "86",
+    "protein": "11.9",
+    "carbs": "3.7",
+    "fat": "2.2"
+  },
+  {
+    "name": "Clam",
+    "category": "Fish & seafood",
+    "calories": "74",
+    "protein": "12.8",
+    "carbs": "2.6",
+    "fat": "1.0"
+  },
+  {
+    "name": "Squid",
+    "category": "Fish & seafood",
+    "calories": "92",
+    "protein": "15.6",
+    "carbs": "3.1",
+    "fat": "1.4"
+  },
+  {
+    "name": "Octopus",
+    "category": "Fish & seafood",
+    "calories": "82",
+    "protein": "14.9",
+    "carbs": "2.2",
+    "fat": "1.0"
+  },
+  {
+    "name": "Cuttlefish",
+    "category": "Fish & seafood",
+    "calories": "79",
+    "protein": "16.1",
+    "carbs": "0.8",
+    "fat": "0.7"
+  },
+  {
+    "name": "Crayfish",
+    "category": "Fish & seafood",
+    "calories": "82",
+    "protein": "16.8",
+    "carbs": "0.0",
+    "fat": "1.2"
+  },
+  {
+    "name": "Langoustine",
+    "category": "Fish & seafood",
+    "calories": "90",
+    "protein": "18.0",
+    "carbs": "0.5",
+    "fat": "1.1"
+  },
+  {
+    "name": "Sea urchin",
+    "category": "Fish & seafood",
+    "calories": "120",
+    "protein": "13.0",
+    "carbs": "3.4",
+    "fat": "5.9"
+  },
+  {
+    "name": "Salmon roe",
+    "category": "Fish & seafood",
+    "calories": "250",
+    "protein": "29.2",
+    "carbs": "4.0",
+    "fat": "13.8"
+  },
+  {
+    "name": "Cod roe",
+    "category": "Fish & seafood",
+    "calories": "130",
+    "protein": "21.6",
+    "carbs": "3.0",
+    "fat": "3.4"
+  },
+  {
+    "name": "Sprat",
+    "category": "Fish & seafood",
+    "calories": "184",
+    "protein": "16.7",
+    "carbs": "0.0",
+    "fat": "12.9"
+  },
+  {
+    "name": "Plaice",
+    "category": "Fish & seafood",
+    "calories": "91",
+    "protein": "18.8",
+    "carbs": "0.0",
+    "fat": "1.2"
+  },
+  {
+    "name": "Turbot",
+    "category": "Fish & seafood",
+    "calories": "95",
+    "protein": "16.9",
+    "carbs": "0.0",
+    "fat": "3.0"
+  },
+  {
+    "name": "Monkfish",
+    "category": "Fish & seafood",
+    "calories": "76",
+    "protein": "16.8",
+    "carbs": "0.0",
+    "fat": "0.9"
+  },
+  {
+    "name": "Dover sole",
+    "category": "Fish & seafood",
+    "calories": "83",
+    "protein": "17.0",
+    "carbs": "0.0",
+    "fat": "1.2"
+  },
+  {
+    "name": "Whiting",
+    "category": "Fish & seafood",
+    "calories": "90",
+    "protein": "18.7",
+    "carbs": "0.0",
+    "fat": "1.3"
+  },
+  {
+    "name": "Sea scallop",
+    "category": "Fish & seafood",
+    "calories": "88",
+    "protein": "16.8",
+    "carbs": "2.4",
+    "fat": "0.8"
+  },
+  {
+    "name": "Whole egg",
+    "category": "Dairy & cheese",
+    "calories": "143",
+    "protein": "12.6",
+    "carbs": "0.7",
+    "fat": "9.5"
+  },
+  {
+    "name": "Egg white",
+    "category": "Dairy & cheese",
+    "calories": "52",
+    "protein": "10.9",
+    "carbs": "0.7",
+    "fat": "0.2"
+  },
+  {
+    "name": "Egg yolk",
+    "category": "Dairy & cheese",
+    "calories": "322",
+    "protein": "15.9",
+    "carbs": "3.6",
+    "fat": "26.5"
+  },
+  {
+    "name": "Whole milk",
+    "category": "Dairy & cheese",
+    "calories": "61",
+    "protein": "3.2",
+    "carbs": "4.8",
+    "fat": "3.3"
+  },
+  {
+    "name": "Semi-skimmed milk",
+    "category": "Dairy & cheese",
+    "calories": "46",
+    "protein": "3.3",
+    "carbs": "4.9",
+    "fat": "1.6"
+  },
+  {
+    "name": "Skimmed milk",
+    "category": "Dairy & cheese",
+    "calories": "34",
+    "protein": "3.4",
+    "carbs": "5",
+    "fat": "0.1"
+  },
+  {
+    "name": "Goat milk",
+    "category": "Dairy & cheese",
+    "calories": "69",
+    "protein": "3.6",
+    "carbs": "4.5",
+    "fat": "4.1"
+  },
+  {
+    "name": "Sheep milk",
+    "category": "Dairy & cheese",
+    "calories": "108",
+    "protein": "5.9",
+    "carbs": "5.4",
+    "fat": "7"
+  },
+  {
+    "name": "Buttermilk",
+    "category": "Dairy & cheese",
+    "calories": "40",
+    "protein": "3.3",
+    "carbs": "4.8",
+    "fat": "0.9"
+  },
+  {
+    "name": "Butter",
+    "category": "Dairy & cheese",
+    "calories": "717",
+    "protein": "0.9",
+    "carbs": "0.1",
+    "fat": "81.1"
+  },
+  {
+    "name": "Unsalted butter",
+    "category": "Dairy & cheese",
+    "calories": "717",
+    "protein": "0.9",
+    "carbs": "0.1",
+    "fat": "81.1"
+  },
+  {
+    "name": "Heavy cream",
+    "category": "Dairy & cheese",
+    "calories": "340",
+    "protein": "2.1",
+    "carbs": "2.8",
+    "fat": "36.1"
+  },
+  {
+    "name": "Whipping cream",
+    "category": "Dairy & cheese",
+    "calories": "257",
+    "protein": "1.9",
+    "carbs": "3.3",
+    "fat": "27.2"
+  },
+  {
+    "name": "Sour cream",
+    "category": "Dairy & cheese",
+    "calories": "198",
+    "protein": "2.4",
+    "carbs": "4.6",
+    "fat": "19.4"
+  },
+  {
+    "name": "Creme fraiche",
+    "category": "Dairy & cheese",
+    "calories": "292",
+    "protein": "2",
+    "carbs": "2.8",
+    "fat": "30"
+  },
+  {
+    "name": "Plain yogurt (whole milk)",
+    "category": "Dairy & cheese",
+    "calories": "61",
+    "protein": "3.5",
+    "carbs": "4.7",
+    "fat": "3.3"
+  },
+  {
+    "name": "Plain yogurt (low fat)",
+    "category": "Dairy & cheese",
+    "calories": "56",
+    "protein": "5.7",
+    "carbs": "6.8",
+    "fat": "0.6"
+  },
+  {
+    "name": "Greek yogurt",
+    "category": "Dairy & cheese",
+    "calories": "97",
+    "protein": "9",
+    "carbs": "3.6",
+    "fat": "5"
+  },
+  {
+    "name": "Kefir",
+    "category": "Dairy & cheese",
+    "calories": "61",
+    "protein": "3.4",
+    "carbs": "4.5",
+    "fat": "3.5"
+  },
+  {
+    "name": "Condensed milk",
+    "category": "Dairy & cheese",
+    "calories": "321",
+    "protein": "7.9",
+    "carbs": "54.4",
+    "fat": "8.7"
+  },
+  {
+    "name": "Evaporated milk",
+    "category": "Dairy & cheese",
+    "calories": "134",
+    "protein": "6.8",
+    "carbs": "10",
+    "fat": "7.6"
+  },
+  {
+    "name": "Powdered milk",
+    "category": "Dairy & cheese",
+    "calories": "496",
+    "protein": "26.3",
+    "carbs": "38.4",
+    "fat": "26.7"
+  },
+  {
+    "name": "Whey protein powder",
+    "category": "Dairy & cheese",
+    "calories": "370",
+    "protein": "79",
+    "carbs": "9",
+    "fat": "3.5"
+  },
+  {
+    "name": "Cheddar cheese",
+    "category": "Dairy & cheese",
+    "calories": "403",
+    "protein": "24.9",
+    "carbs": "1.3",
+    "fat": "33.1"
+  },
+  {
+    "name": "Mozzarella cheese",
+    "category": "Dairy & cheese",
+    "calories": "300",
+    "protein": "22.2",
+    "carbs": "2.2",
+    "fat": "22.4"
+  },
+  {
+    "name": "Parmesan cheese",
+    "category": "Dairy & cheese",
+    "calories": "431",
+    "protein": "38.5",
+    "carbs": "4.1",
+    "fat": "28.6"
+  },
+  {
+    "name": "Feta cheese",
+    "category": "Dairy & cheese",
+    "calories": "264",
+    "protein": "14.2",
+    "carbs": "4.1",
+    "fat": "21.3"
+  },
+  {
+    "name": "Ricotta cheese",
+    "category": "Dairy & cheese",
+    "calories": "174",
+    "protein": "11.3",
+    "carbs": "3",
+    "fat": "13"
+  },
+  {
+    "name": "Gouda cheese",
+    "category": "Dairy & cheese",
+    "calories": "356",
+    "protein": "24.9",
+    "carbs": "2.2",
+    "fat": "27.4"
+  },
+  {
+    "name": "Brie cheese",
+    "category": "Dairy & cheese",
+    "calories": "334",
+    "protein": "20.8",
+    "carbs": "0.5",
+    "fat": "27.7"
+  },
+  {
+    "name": "Camembert cheese",
+    "category": "Dairy & cheese",
+    "calories": "300",
+    "protein": "19.8",
+    "carbs": "0.5",
+    "fat": "24.3"
+  },
+  {
+    "name": "Goat cheese",
+    "category": "Dairy & cheese",
+    "calories": "364",
+    "protein": "21.6",
+    "carbs": "2.5",
+    "fat": "29.8"
+  },
+  {
+    "name": "Blue cheese",
+    "category": "Dairy & cheese",
+    "calories": "353",
+    "protein": "21.4",
+    "carbs": "2.3",
+    "fat": "28.7"
+  },
+  {
+    "name": "Cottage cheese",
+    "category": "Dairy & cheese",
+    "calories": "98",
+    "protein": "11.1",
+    "carbs": "3.4",
+    "fat": "4.3"
+  },
+  {
+    "name": "Cream cheese",
+    "category": "Dairy & cheese",
+    "calories": "342",
+    "protein": "5.9",
+    "carbs": "4.1",
+    "fat": "33.8"
+  },
+  {
+    "name": "Mascarpone",
+    "category": "Dairy & cheese",
+    "calories": "429",
+    "protein": "4.2",
+    "carbs": "3.6",
+    "fat": "44.9"
+  },
+  {
+    "name": "Swiss cheese",
+    "category": "Dairy & cheese",
+    "calories": "380",
+    "protein": "26.9",
+    "carbs": "5.4",
+    "fat": "27.8"
+  },
+  {
+    "name": "Gruyere cheese",
+    "category": "Dairy & cheese",
+    "calories": "413",
+    "protein": "29.8",
+    "carbs": "0.4",
+    "fat": "32.3"
+  },
+  {
+    "name": "Emmental cheese",
+    "category": "Dairy & cheese",
+    "calories": "380",
+    "protein": "28.6",
+    "carbs": "1.6",
+    "fat": "29.7"
+  },
+  {
+    "name": "Pecorino cheese",
+    "category": "Dairy & cheese",
+    "calories": "387",
+    "protein": "25.5",
+    "carbs": "0.1",
+    "fat": "32"
+  },
+  {
+    "name": "Provolone cheese",
+    "category": "Dairy & cheese",
+    "calories": "352",
+    "protein": "25.6",
+    "carbs": "2.1",
+    "fat": "26.6"
+  },
+  {
+    "name": "Halloumi cheese",
+    "category": "Dairy & cheese",
+    "calories": "321",
+    "protein": "21.4",
+    "carbs": "1.9",
+    "fat": "25"
+  },
+  {
+    "name": "Burrata cheese",
+    "category": "Dairy & cheese",
+    "calories": "330",
+    "protein": "14",
+    "carbs": "2",
+    "fat": "30"
+  },
+  {
+    "name": "Manchego cheese",
+    "category": "Dairy & cheese",
+    "calories": "395",
+    "protein": "25.8",
+    "carbs": "0.5",
+    "fat": "32"
+  },
+  {
+    "name": "Colby cheese",
+    "category": "Dairy & cheese",
+    "calories": "394",
+    "protein": "23.8",
+    "carbs": "2.6",
+    "fat": "32.1"
+  },
+  {
+    "name": "Edam cheese",
+    "category": "Dairy & cheese",
+    "calories": "357",
+    "protein": "24.99",
+    "carbs": "1.43",
+    "fat": "27.8"
+  },
+  {
+    "name": "Quark",
+    "category": "Dairy & cheese",
+    "calories": "65",
+    "protein": "12",
+    "carbs": "3.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Labneh",
+    "category": "Dairy & cheese",
+    "calories": "190",
+    "protein": "8",
+    "carbs": "4",
+    "fat": "16"
+  },
+  {
+    "name": "Almond milk",
+    "category": "Dairy & cheese",
+    "calories": "15",
+    "protein": "0.6",
+    "carbs": "0.3",
+    "fat": "1.2"
+  },
+  {
+    "name": "Soy milk",
+    "category": "Dairy & cheese",
+    "calories": "33",
+    "protein": "2.9",
+    "carbs": "1.8",
+    "fat": "1.8"
+  },
+  {
+    "name": "Oat milk",
+    "category": "Dairy & cheese",
+    "calories": "46",
+    "protein": "1",
+    "carbs": "8",
+    "fat": "1.5"
+  },
+  {
+    "name": "Coconut milk beverage",
+    "category": "Dairy & cheese",
+    "calories": "20",
+    "protein": "0.2",
+    "carbs": "3",
+    "fat": "0.9"
+  },
+  {
+    "name": "White rice",
+    "category": "Grains & cereals",
+    "calories": "365",
+    "protein": "7.1",
+    "carbs": "79.3",
+    "fat": "0.7"
+  },
+  {
+    "name": "Brown rice",
+    "category": "Grains & cereals",
+    "calories": "362",
+    "protein": "7.5",
+    "carbs": "76.2",
+    "fat": "2.7"
+  },
+  {
+    "name": "Basmati rice",
+    "category": "Grains & cereals",
+    "calories": "356",
+    "protein": "8.4",
+    "carbs": "77.5",
+    "fat": "0.6"
+  },
+  {
+    "name": "Jasmine rice",
+    "category": "Grains & cereals",
+    "calories": "355",
+    "protein": "7.3",
+    "carbs": "79",
+    "fat": "0.6"
+  },
+  {
+    "name": "Wild rice",
+    "category": "Grains & cereals",
+    "calories": "357",
+    "protein": "14.7",
+    "carbs": "74.9",
+    "fat": "1.1"
+  },
+  {
+    "name": "Arborio rice",
+    "category": "Grains & cereals",
+    "calories": "358",
+    "protein": "6.6",
+    "carbs": "79.4",
+    "fat": "0.5"
+  },
+  {
+    "name": "Black rice",
+    "category": "Grains & cereals",
+    "calories": "356",
+    "protein": "8.9",
+    "carbs": "74.9",
+    "fat": "3.5"
+  },
+  {
+    "name": "Rolled oats",
+    "category": "Grains & cereals",
+    "calories": "389",
+    "protein": "16.9",
+    "carbs": "66.3",
+    "fat": "6.9"
+  },
+  {
+    "name": "Steel cut oats",
+    "category": "Grains & cereals",
+    "calories": "379",
+    "protein": "13.5",
+    "carbs": "68",
+    "fat": "6.5"
+  },
+  {
+    "name": "Oat bran",
+    "category": "Grains & cereals",
+    "calories": "246",
+    "protein": "17.3",
+    "carbs": "66.2",
+    "fat": "7"
+  },
+  {
+    "name": "All-purpose flour",
+    "category": "Grains & cereals",
+    "calories": "364",
+    "protein": "10.3",
+    "carbs": "76.3",
+    "fat": "1"
+  },
+  {
+    "name": "Whole wheat flour",
+    "category": "Grains & cereals",
+    "calories": "340",
+    "protein": "13.2",
+    "carbs": "72.6",
+    "fat": "1.9"
+  },
+  {
+    "name": "Bread flour",
+    "category": "Grains & cereals",
+    "calories": "361",
+    "protein": "12.3",
+    "carbs": "72.5",
+    "fat": "1.7"
+  },
+  {
+    "name": "Rye flour",
+    "category": "Grains & cereals",
+    "calories": "325",
+    "protein": "8.8",
+    "carbs": "68.7",
+    "fat": "1.6"
+  },
+  {
+    "name": "Spelt flour",
+    "category": "Grains & cereals",
+    "calories": "338",
+    "protein": "14.6",
+    "carbs": "70.2",
+    "fat": "2.4"
+  },
+  {
+    "name": "Rice flour",
+    "category": "Grains & cereals",
+    "calories": "366",
+    "protein": "5.9",
+    "carbs": "80.1",
+    "fat": "1.4"
+  },
+  {
+    "name": "Oat flour",
+    "category": "Grains & cereals",
+    "calories": "404",
+    "protein": "14.7",
+    "carbs": "65.7",
+    "fat": "9.1"
+  },
+  {
+    "name": "Semolina",
+    "category": "Grains & cereals",
+    "calories": "360",
+    "protein": "12.7",
+    "carbs": "72.8",
+    "fat": "1"
+  },
+  {
+    "name": "Cornmeal",
+    "category": "Grains & cereals",
+    "calories": "362",
+    "protein": "8.1",
+    "carbs": "76.9",
+    "fat": "3.6"
+  },
+  {
+    "name": "Cornstarch",
+    "category": "Grains & cereals",
+    "calories": "381",
+    "protein": "0.3",
+    "carbs": "91.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Tapioca starch",
+    "category": "Grains & cereals",
+    "calories": "358",
+    "protein": "0.2",
+    "carbs": "88.7",
+    "fat": "0"
+  },
+  {
+    "name": "Quinoa",
+    "category": "Grains & cereals",
+    "calories": "368",
+    "protein": "14.1",
+    "carbs": "64.2",
+    "fat": "6.1"
+  },
+  {
+    "name": "Bulgur wheat",
+    "category": "Grains & cereals",
+    "calories": "342",
+    "protein": "12.3",
+    "carbs": "75.9",
+    "fat": "1.3"
+  },
+  {
+    "name": "Barley",
+    "category": "Grains & cereals",
+    "calories": "352",
+    "protein": "9.9",
+    "carbs": "77.7",
+    "fat": "1.2"
+  },
+  {
+    "name": "Pearl barley",
+    "category": "Grains & cereals",
+    "calories": "352",
+    "protein": "9.9",
+    "carbs": "77.7",
+    "fat": "1.2"
+  },
+  {
+    "name": "Millet",
+    "category": "Grains & cereals",
+    "calories": "378",
+    "protein": "11",
+    "carbs": "72.9",
+    "fat": "4.2"
+  },
+  {
+    "name": "Buckwheat",
+    "category": "Grains & cereals",
+    "calories": "343",
+    "protein": "13.3",
+    "carbs": "71.5",
+    "fat": "3.4"
+  },
+  {
+    "name": "Amaranth",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13.6",
+    "carbs": "65.3",
+    "fat": "7"
+  },
+  {
+    "name": "Sorghum",
+    "category": "Grains & cereals",
+    "calories": "329",
+    "protein": "10.6",
+    "carbs": "72.1",
+    "fat": "3.5"
+  },
+  {
+    "name": "Teff",
+    "category": "Grains & cereals",
+    "calories": "367",
+    "protein": "13.3",
+    "carbs": "73.1",
+    "fat": "2.4"
+  },
+  {
+    "name": "Wheat bran",
+    "category": "Grains & cereals",
+    "calories": "216",
+    "protein": "15.6",
+    "carbs": "64.5",
+    "fat": "4.3"
+  },
+  {
+    "name": "Wheat germ",
+    "category": "Grains & cereals",
+    "calories": "382",
+    "protein": "23.2",
+    "carbs": "51.8",
+    "fat": "9.7"
+  },
+  {
+    "name": "Polenta",
+    "category": "Grains & cereals",
+    "calories": "362",
+    "protein": "8.1",
+    "carbs": "76.8",
+    "fat": "3.6"
+  },
+  {
+    "name": "Couscous",
+    "category": "Grains & cereals",
+    "calories": "376",
+    "protein": "12.8",
+    "carbs": "77.4",
+    "fat": "0.6"
+  },
+  {
+    "name": "Freekeh",
+    "category": "Grains & cereals",
+    "calories": "347",
+    "protein": "14.6",
+    "carbs": "72.5",
+    "fat": "2.7"
+  },
+  {
+    "name": "Farro",
+    "category": "Grains & cereals",
+    "calories": "340",
+    "protein": "14",
+    "carbs": "70",
+    "fat": "2.5"
+  },
+  {
+    "name": "Kamut",
+    "category": "Grains & cereals",
+    "calories": "337",
+    "protein": "14.7",
+    "carbs": "70.2",
+    "fat": "2.2"
+  },
+  {
+    "name": "Spaghetti",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Penne",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Fusilli",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Rigatoni",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Linguine",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Tagliatelle",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Lasagne sheets",
+    "category": "Grains & cereals",
+    "calories": "371",
+    "protein": "13",
+    "carbs": "74.7",
+    "fat": "1.5"
+  },
+  {
+    "name": "Whole wheat pasta",
+    "category": "Grains & cereals",
+    "calories": "357",
+    "protein": "14.6",
+    "carbs": "74.5",
+    "fat": "1.4"
+  },
+  {
+    "name": "Egg noodles",
+    "category": "Grains & cereals",
+    "calories": "138",
+    "protein": "4.5",
+    "carbs": "25.2",
+    "fat": "2.1"
+  },
+  {
+    "name": "Rice noodles",
+    "category": "Grains & cereals",
+    "calories": "364",
+    "protein": "6.1",
+    "carbs": "80.2",
+    "fat": "0.6"
+  },
+  {
+    "name": "Soba noodles",
+    "category": "Grains & cereals",
+    "calories": "336",
+    "protein": "14",
+    "carbs": "70.6",
+    "fat": "1.1"
+  },
+  {
+    "name": "Udon noodles",
+    "category": "Grains & cereals",
+    "calories": "132",
+    "protein": "3.5",
+    "carbs": "27.4",
+    "fat": "0.6"
+  },
+  {
+    "name": "Glass noodles",
+    "category": "Grains & cereals",
+    "calories": "351",
+    "protein": "0.2",
+    "carbs": "86.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "White bread",
+    "category": "Grains & cereals",
+    "calories": "265",
+    "protein": "9",
+    "carbs": "49.2",
+    "fat": "3.2"
+  },
+  {
+    "name": "Whole wheat bread",
+    "category": "Grains & cereals",
+    "calories": "247",
+    "protein": "13",
+    "carbs": "41.3",
+    "fat": "4.2"
+  },
+  {
+    "name": "Sourdough bread",
+    "category": "Grains & cereals",
+    "calories": "289",
+    "protein": "8.8",
+    "carbs": "54.5",
+    "fat": "2.5"
+  },
+  {
+    "name": "Rye bread",
+    "category": "Grains & cereals",
+    "calories": "259",
+    "protein": "8.5",
+    "carbs": "48.3",
+    "fat": "3.3"
+  },
+  {
+    "name": "Pita bread",
+    "category": "Grains & cereals",
+    "calories": "275",
+    "protein": "9.1",
+    "carbs": "55.7",
+    "fat": "1.2"
+  },
+  {
+    "name": "Tortilla (wheat)",
+    "category": "Grains & cereals",
+    "calories": "312",
+    "protein": "8",
+    "carbs": "49.4",
+    "fat": "8.3"
+  },
+  {
+    "name": "Corn tortilla",
+    "category": "Grains & cereals",
+    "calories": "218",
+    "protein": "5.7",
+    "carbs": "45.9",
+    "fat": "2.5"
+  },
+  {
+    "name": "Breadcrumbs",
+    "category": "Grains & cereals",
+    "calories": "395",
+    "protein": "13",
+    "carbs": "72.5",
+    "fat": "5.3"
+  },
+  {
+    "name": "Crackers",
+    "category": "Grains & cereals",
+    "calories": "449",
+    "protein": "9.5",
+    "carbs": "64",
+    "fat": "18"
+  },
+  {
+    "name": "Granola",
+    "category": "Grains & cereals",
+    "calories": "471",
+    "protein": "10.1",
+    "carbs": "64.3",
+    "fat": "19.9"
+  },
+  {
+    "name": "Green lentils",
+    "category": "Legumes & pulses",
+    "calories": "353",
+    "protein": "25.8",
+    "carbs": "60.1",
+    "fat": "1.1"
+  },
+  {
+    "name": "Red lentils",
+    "category": "Legumes & pulses",
+    "calories": "358",
+    "protein": "26",
+    "carbs": "61.5",
+    "fat": "1.1"
+  },
+  {
+    "name": "Black lentils",
+    "category": "Legumes & pulses",
+    "calories": "353",
+    "protein": "25.8",
+    "carbs": "60.1",
+    "fat": "1.1"
+  },
+  {
+    "name": "Chickpeas",
+    "category": "Legumes & pulses",
+    "calories": "364",
+    "protein": "19.3",
+    "carbs": "60.7",
+    "fat": "6"
+  },
+  {
+    "name": "Black beans",
+    "category": "Legumes & pulses",
+    "calories": "341",
+    "protein": "21.6",
+    "carbs": "62.4",
+    "fat": "1.4"
+  },
+  {
+    "name": "Kidney beans",
+    "category": "Legumes & pulses",
+    "calories": "337",
+    "protein": "22.5",
+    "carbs": "61.3",
+    "fat": "0.8"
+  },
+  {
+    "name": "Cannellini beans",
+    "category": "Legumes & pulses",
+    "calories": "333",
+    "protein": "23.4",
+    "carbs": "60.3",
+    "fat": "0.9"
+  },
+  {
+    "name": "Pinto beans",
+    "category": "Legumes & pulses",
+    "calories": "347",
+    "protein": "21.4",
+    "carbs": "62.6",
+    "fat": "1.2"
+  },
+  {
+    "name": "Navy beans",
+    "category": "Legumes & pulses",
+    "calories": "337",
+    "protein": "22.3",
+    "carbs": "60.8",
+    "fat": "1.5"
+  },
+  {
+    "name": "Borlotti beans",
+    "category": "Legumes & pulses",
+    "calories": "335",
+    "protein": "23",
+    "carbs": "60",
+    "fat": "1.2"
+  },
+  {
+    "name": "Butter beans",
+    "category": "Legumes & pulses",
+    "calories": "338",
+    "protein": "21.5",
+    "carbs": "63.4",
+    "fat": "0.7"
+  },
+  {
+    "name": "Fava beans",
+    "category": "Legumes & pulses",
+    "calories": "341",
+    "protein": "26.1",
+    "carbs": "58.3",
+    "fat": "1.5"
+  },
+  {
+    "name": "Mung beans",
+    "category": "Legumes & pulses",
+    "calories": "347",
+    "protein": "23.9",
+    "carbs": "62.6",
+    "fat": "1.2"
+  },
+  {
+    "name": "Adzuki beans",
+    "category": "Legumes & pulses",
+    "calories": "329",
+    "protein": "19.9",
+    "carbs": "62.9",
+    "fat": "0.5"
+  },
+  {
+    "name": "Black-eyed peas",
+    "category": "Legumes & pulses",
+    "calories": "336",
+    "protein": "23.5",
+    "carbs": "60",
+    "fat": "1.3"
+  },
+  {
+    "name": "Split peas (green)",
+    "category": "Legumes & pulses",
+    "calories": "341",
+    "protein": "24.6",
+    "carbs": "60.4",
+    "fat": "1"
+  },
+  {
+    "name": "Split peas (yellow)",
+    "category": "Legumes & pulses",
+    "calories": "341",
+    "protein": "24.6",
+    "carbs": "60.4",
+    "fat": "1"
+  },
+  {
+    "name": "Soybeans",
+    "category": "Legumes & pulses",
+    "calories": "446",
+    "protein": "36.5",
+    "carbs": "30.2",
+    "fat": "19.9"
+  },
+  {
+    "name": "Edamame",
+    "category": "Legumes & pulses",
+    "calories": "122",
+    "protein": "11",
+    "carbs": "9.9",
+    "fat": "5.2"
+  },
+  {
+    "name": "Tofu (firm)",
+    "category": "Legumes & pulses",
+    "calories": "76",
+    "protein": "8.1",
+    "carbs": "1.9",
+    "fat": "4.2"
+  },
+  {
+    "name": "Tofu (soft)",
+    "category": "Legumes & pulses",
+    "calories": "55",
+    "protein": "5.3",
+    "carbs": "1.4",
+    "fat": "2.5"
+  },
+  {
+    "name": "Tofu (silken)",
+    "category": "Legumes & pulses",
+    "calories": "42",
+    "protein": "4.5",
+    "carbs": "1.5",
+    "fat": "1.8"
+  },
+  {
+    "name": "Tempeh",
+    "category": "Legumes & pulses",
+    "calories": "193",
+    "protein": "18.5",
+    "carbs": "9.4",
+    "fat": "10.8"
+  },
+  {
+    "name": "Miso paste",
+    "category": "Legumes & pulses",
+    "calories": "199",
+    "protein": "11.7",
+    "carbs": "26.5",
+    "fat": "6"
+  },
+  {
+    "name": "Natto",
+    "category": "Legumes & pulses",
+    "calories": "212",
+    "protein": "17.7",
+    "carbs": "14.4",
+    "fat": "11"
+  },
+  {
+    "name": "Green peas",
+    "category": "Legumes & pulses",
+    "calories": "81",
+    "protein": "5.4",
+    "carbs": "14.5",
+    "fat": "0.4"
+  },
+  {
+    "name": "Chickpea flour",
+    "category": "Legumes & pulses",
+    "calories": "387",
+    "protein": "22.4",
+    "carbs": "57.8",
+    "fat": "6.7"
+  },
+  {
+    "name": "Soy flour",
+    "category": "Legumes & pulses",
+    "calories": "441",
+    "protein": "34.5",
+    "carbs": "35.2",
+    "fat": "20.6"
+  },
+  {
+    "name": "Hummus",
+    "category": "Legumes & pulses",
+    "calories": "166",
+    "protein": "7.9",
+    "carbs": "14.3",
+    "fat": "9.6"
+  },
+  {
+    "name": "Lentil flour",
+    "category": "Legumes & pulses",
+    "calories": "358",
+    "protein": "25.8",
+    "carbs": "60.1",
+    "fat": "1.1"
+  },
+  {
+    "name": "Potato",
+    "category": "Vegetables",
+    "calories": "77",
+    "protein": "2",
+    "carbs": "17.5",
+    "fat": "0.1"
+  },
+  {
+    "name": "Sweet potato",
+    "category": "Vegetables",
+    "calories": "86",
+    "protein": "1.6",
+    "carbs": "20.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Cassava",
+    "category": "Vegetables",
+    "calories": "160",
+    "protein": "1.4",
+    "carbs": "38.1",
+    "fat": "0.3"
+  },
+  {
+    "name": "Yam",
+    "category": "Vegetables",
+    "calories": "118",
+    "protein": "1.5",
+    "carbs": "27.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Taro",
+    "category": "Vegetables",
+    "calories": "112",
+    "protein": "1.5",
+    "carbs": "26.5",
+    "fat": "0.2"
+  },
+  {
+    "name": "Parsnip",
+    "category": "Vegetables",
+    "calories": "75",
+    "protein": "1.2",
+    "carbs": "18",
+    "fat": "0.3"
+  },
+  {
+    "name": "Turnip",
+    "category": "Vegetables",
+    "calories": "28",
+    "protein": "0.9",
+    "carbs": "6.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Beetroot",
+    "category": "Vegetables",
+    "calories": "43",
+    "protein": "1.6",
+    "carbs": "9.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Carrot",
+    "category": "Vegetables",
+    "calories": "41",
+    "protein": "0.9",
+    "carbs": "9.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Celeriac",
+    "category": "Vegetables",
+    "calories": "42",
+    "protein": "1.5",
+    "carbs": "9.2",
+    "fat": "0.3"
+  },
+  {
+    "name": "Radish",
+    "category": "Vegetables",
+    "calories": "16",
+    "protein": "0.7",
+    "carbs": "3.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Daikon radish",
+    "category": "Vegetables",
+    "calories": "18",
+    "protein": "0.6",
+    "carbs": "4.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Onion",
+    "category": "Vegetables",
+    "calories": "40",
+    "protein": "1.1",
+    "carbs": "9.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Red onion",
+    "category": "Vegetables",
+    "calories": "40",
+    "protein": "1.1",
+    "carbs": "9.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Spring onion",
+    "category": "Vegetables",
+    "calories": "32",
+    "protein": "1.8",
+    "carbs": "7.3",
+    "fat": "0.2"
+  },
+  {
+    "name": "Shallot",
+    "category": "Vegetables",
+    "calories": "72",
+    "protein": "2.5",
+    "carbs": "16.8",
+    "fat": "0.1"
+  },
+  {
+    "name": "Leek",
+    "category": "Vegetables",
+    "calories": "61",
+    "protein": "1.5",
+    "carbs": "14.2",
+    "fat": "0.3"
+  },
+  {
+    "name": "Garlic",
+    "category": "Vegetables",
+    "calories": "149",
+    "protein": "6.4",
+    "carbs": "33.1",
+    "fat": "0.5"
+  },
+  {
+    "name": "Tomato",
+    "category": "Vegetables",
+    "calories": "18",
+    "protein": "0.9",
+    "carbs": "3.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Cherry tomato",
+    "category": "Vegetables",
+    "calories": "18",
+    "protein": "0.9",
+    "carbs": "3.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Sun-dried tomato",
+    "category": "Vegetables",
+    "calories": "258",
+    "protein": "14.1",
+    "carbs": "55.8",
+    "fat": "3"
+  },
+  {
+    "name": "Bell pepper (red)",
+    "category": "Vegetables",
+    "calories": "31",
+    "protein": "1",
+    "carbs": "6",
+    "fat": "0.3"
+  },
+  {
+    "name": "Bell pepper (green)",
+    "category": "Vegetables",
+    "calories": "20",
+    "protein": "0.9",
+    "carbs": "4.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Bell pepper (yellow)",
+    "category": "Vegetables",
+    "calories": "27",
+    "protein": "1",
+    "carbs": "6.3",
+    "fat": "0.2"
+  },
+  {
+    "name": "Chili pepper (red)",
+    "category": "Vegetables",
+    "calories": "40",
+    "protein": "1.9",
+    "carbs": "8.8",
+    "fat": "0.4"
+  },
+  {
+    "name": "Chili pepper (green)",
+    "category": "Vegetables",
+    "calories": "40",
+    "protein": "2",
+    "carbs": "9.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Jalape\u00f1o",
+    "category": "Vegetables",
+    "calories": "29",
+    "protein": "0.9",
+    "carbs": "6.5",
+    "fat": "0.4"
+  },
+  {
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "calories": "16",
+    "protein": "0.7",
+    "carbs": "3.6",
+    "fat": "0.1"
+  },
+  {
+    "name": "Zucchini",
+    "category": "Vegetables",
+    "calories": "17",
+    "protein": "1.2",
+    "carbs": "3.1",
+    "fat": "0.3"
+  },
+  {
+    "name": "Eggplant",
+    "category": "Vegetables",
+    "calories": "25",
+    "protein": "1",
+    "carbs": "5.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "calories": "34",
+    "protein": "2.8",
+    "carbs": "6.6",
+    "fat": "0.4"
+  },
+  {
+    "name": "Cauliflower",
+    "category": "Vegetables",
+    "calories": "25",
+    "protein": "1.9",
+    "carbs": "5",
+    "fat": "0.3"
+  },
+  {
+    "name": "Cabbage (green)",
+    "category": "Vegetables",
+    "calories": "25",
+    "protein": "1.3",
+    "carbs": "5.8",
+    "fat": "0.1"
+  },
+  {
+    "name": "Cabbage (red)",
+    "category": "Vegetables",
+    "calories": "31",
+    "protein": "1.5",
+    "carbs": "7.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Brussels sprouts",
+    "category": "Vegetables",
+    "calories": "43",
+    "protein": "3.4",
+    "carbs": "8.9",
+    "fat": "0.3"
+  },
+  {
+    "name": "Kale",
+    "category": "Vegetables",
+    "calories": "49",
+    "protein": "4.3",
+    "carbs": "8.8",
+    "fat": "0.9"
+  },
+  {
+    "name": "Spinach",
+    "category": "Vegetables",
+    "calories": "23",
+    "protein": "2.9",
+    "carbs": "3.6",
+    "fat": "0.4"
+  },
+  {
+    "name": "Swiss chard",
+    "category": "Vegetables",
+    "calories": "19",
+    "protein": "1.8",
+    "carbs": "3.7",
+    "fat": "0.2"
+  },
+  {
+    "name": "Arugula",
+    "category": "Vegetables",
+    "calories": "25",
+    "protein": "2.6",
+    "carbs": "3.7",
+    "fat": "0.7"
+  },
+  {
+    "name": "Bok choy",
+    "category": "Vegetables",
+    "calories": "13",
+    "protein": "1.5",
+    "carbs": "2.2",
+    "fat": "0.2"
+  },
+  {
+    "name": "Lettuce (romaine)",
+    "category": "Vegetables",
+    "calories": "17",
+    "protein": "1.2",
+    "carbs": "3.3",
+    "fat": "0.3"
+  },
+  {
+    "name": "Lettuce (iceberg)",
+    "category": "Vegetables",
+    "calories": "14",
+    "protein": "0.9",
+    "carbs": "2",
+    "fat": "0.1"
+  },
+  {
+    "name": "Watercress",
+    "category": "Vegetables",
+    "calories": "11",
+    "protein": "2.3",
+    "carbs": "1.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Endive",
+    "category": "Vegetables",
+    "calories": "17",
+    "protein": "1.3",
+    "carbs": "3.4",
+    "fat": "0.2"
+  },
+  {
+    "name": "Radicchio",
+    "category": "Vegetables",
+    "calories": "23",
+    "protein": "1.4",
+    "carbs": "4.5",
+    "fat": "0.3"
+  },
+  {
+    "name": "Asparagus",
+    "category": "Vegetables",
+    "calories": "20",
+    "protein": "2.2",
+    "carbs": "3.9",
+    "fat": "0.1"
+  },
+  {
+    "name": "Green beans",
+    "category": "Vegetables",
+    "calories": "31",
+    "protein": "1.8",
+    "carbs": "7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Corn",
+    "category": "Vegetables",
+    "calories": "96",
+    "protein": "3.4",
+    "carbs": "21",
+    "fat": "1.5"
+  },
+  {
+    "name": "Pumpkin",
+    "category": "Vegetables",
+    "calories": "26",
+    "protein": "1",
+    "carbs": "6.5",
+    "fat": "0.1"
+  },
+  {
+    "name": "Butternut squash",
+    "category": "Vegetables",
+    "calories": "45",
+    "protein": "1",
+    "carbs": "11.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Acorn squash",
+    "category": "Vegetables",
+    "calories": "40",
+    "protein": "0.8",
+    "carbs": "10.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Spaghetti squash",
+    "category": "Vegetables",
+    "calories": "31",
+    "protein": "0.6",
+    "carbs": "7",
+    "fat": "0.6"
+  },
+  {
+    "name": "Courgette flowers",
+    "category": "Vegetables",
+    "calories": "16",
+    "protein": "1.4",
+    "carbs": "2.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Artichoke",
+    "category": "Vegetables",
+    "calories": "47",
+    "protein": "3.3",
+    "carbs": "10.5",
+    "fat": "0.2"
+  },
+  {
+    "name": "Fennel",
+    "category": "Vegetables",
+    "calories": "31",
+    "protein": "1.2",
+    "carbs": "7.3",
+    "fat": "0.2"
+  },
+  {
+    "name": "Celery",
+    "category": "Vegetables",
+    "calories": "16",
+    "protein": "0.7",
+    "carbs": "3",
+    "fat": "0.2"
+  },
+  {
+    "name": "Mushroom (white)",
+    "category": "Vegetables",
+    "calories": "22",
+    "protein": "3.1",
+    "carbs": "3.3",
+    "fat": "0.3"
+  },
+  {
+    "name": "Mushroom (portobello)",
+    "category": "Vegetables",
+    "calories": "22",
+    "protein": "2.1",
+    "carbs": "3.9",
+    "fat": "0.4"
+  },
+  {
+    "name": "Mushroom (shiitake)",
+    "category": "Vegetables",
+    "calories": "34",
+    "protein": "2.2",
+    "carbs": "6.8",
+    "fat": "0.5"
+  },
+  {
+    "name": "Mushroom (oyster)",
+    "category": "Vegetables",
+    "calories": "33",
+    "protein": "3.3",
+    "carbs": "6.1",
+    "fat": "0.4"
+  },
+  {
+    "name": "Mushroom (cremini)",
+    "category": "Vegetables",
+    "calories": "22",
+    "protein": "3.1",
+    "carbs": "3.3",
+    "fat": "0.3"
+  },
+  {
+    "name": "Porcini mushroom",
+    "category": "Vegetables",
+    "calories": "35",
+    "protein": "3.7",
+    "carbs": "5.1",
+    "fat": "0.5"
+  },
+  {
+    "name": "Okra",
+    "category": "Vegetables",
+    "calories": "33",
+    "protein": "1.9",
+    "carbs": "7.5",
+    "fat": "0.2"
+  },
+  {
+    "name": "Kohlrabi",
+    "category": "Vegetables",
+    "calories": "27",
+    "protein": "1.7",
+    "carbs": "6.2",
+    "fat": "0.1"
+  },
+  {
+    "name": "Lotus root",
+    "category": "Vegetables",
+    "calories": "74",
+    "protein": "2.6",
+    "carbs": "17.2",
+    "fat": "0.1"
+  },
+  {
+    "name": "Bamboo shoots",
+    "category": "Vegetables",
+    "calories": "27",
+    "protein": "2.6",
+    "carbs": "5.2",
+    "fat": "0.3"
+  },
+  {
+    "name": "Water chestnut",
+    "category": "Vegetables",
+    "calories": "97",
+    "protein": "1.4",
+    "carbs": "23.9",
+    "fat": "0.1"
+  },
+  {
+    "name": "Bean sprouts",
+    "category": "Vegetables",
+    "calories": "30",
+    "protein": "3",
+    "carbs": "5.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Bitter melon",
+    "category": "Vegetables",
+    "calories": "17",
+    "protein": "1",
+    "carbs": "3.7",
+    "fat": "0.2"
+  },
+  {
+    "name": "Plantain",
+    "category": "Vegetables",
+    "calories": "122",
+    "protein": "1.3",
+    "carbs": "31.9",
+    "fat": "0.4"
+  },
+  {
+    "name": "Horseradish root",
+    "category": "Vegetables",
+    "calories": "48",
+    "protein": "1.2",
+    "carbs": "11.3",
+    "fat": "0.7"
+  },
+  {
+    "name": "Ginger root",
+    "category": "Vegetables",
+    "calories": "80",
+    "protein": "1.8",
+    "carbs": "17.8",
+    "fat": "0.8"
+  },
+  {
+    "name": "Turmeric root",
+    "category": "Vegetables",
+    "calories": "312",
+    "protein": "9.7",
+    "carbs": "67.1",
+    "fat": "3.3"
+  },
+  {
+    "name": "Lemongrass",
+    "category": "Vegetables",
+    "calories": "99",
+    "protein": "1.8",
+    "carbs": "25.3",
+    "fat": "0.5"
+  },
+  {
+    "name": "Galangal",
+    "category": "Vegetables",
+    "calories": "70",
+    "protein": "1.5",
+    "carbs": "15",
+    "fat": "0.8"
+  },
+  {
+    "name": "Pak choi",
+    "category": "Vegetables",
+    "calories": "13",
+    "protein": "1.5",
+    "carbs": "2.2",
+    "fat": "0.2"
+  },
+  {
+    "name": "Savoy cabbage",
+    "category": "Vegetables",
+    "calories": "27",
+    "protein": "2",
+    "carbs": "6.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Napa cabbage",
+    "category": "Vegetables",
+    "calories": "16",
+    "protein": "1.2",
+    "carbs": "3.2",
+    "fat": "0.2"
+  },
+  {
+    "name": "Butterhead lettuce",
+    "category": "Vegetables",
+    "calories": "13",
+    "protein": "1.4",
+    "carbs": "2.2",
+    "fat": "0.2"
+  },
+  {
+    "name": "Sorrel",
+    "category": "Vegetables",
+    "calories": "22",
+    "protein": "2",
+    "carbs": "3.2",
+    "fat": "0.7"
+  },
+  {
+    "name": "Apple",
+    "category": "Fruits",
+    "calories": "52",
+    "protein": "0.3",
+    "carbs": "13.8",
+    "fat": "0.2"
+  },
+  {
+    "name": "Pear",
+    "category": "Fruits",
+    "calories": "57",
+    "protein": "0.4",
+    "carbs": "15.2",
+    "fat": "0.1"
+  },
+  {
+    "name": "Banana",
+    "category": "Fruits",
+    "calories": "89",
+    "protein": "1.1",
+    "carbs": "22.8",
+    "fat": "0.3"
+  },
+  {
+    "name": "Orange",
+    "category": "Fruits",
+    "calories": "47",
+    "protein": "0.9",
+    "carbs": "11.8",
+    "fat": "0.1"
+  },
+  {
+    "name": "Mandarin",
+    "category": "Fruits",
+    "calories": "53",
+    "protein": "0.8",
+    "carbs": "13.3",
+    "fat": "0.3"
+  },
+  {
+    "name": "Lemon",
+    "category": "Fruits",
+    "calories": "29",
+    "protein": "1.1",
+    "carbs": "9.3",
+    "fat": "0.3"
+  },
+  {
+    "name": "Lime",
+    "category": "Fruits",
+    "calories": "30",
+    "protein": "0.7",
+    "carbs": "10.5",
+    "fat": "0.2"
+  },
+  {
+    "name": "Grapefruit",
+    "category": "Fruits",
+    "calories": "42",
+    "protein": "0.8",
+    "carbs": "10.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Strawberry",
+    "category": "Fruits",
+    "calories": "32",
+    "protein": "0.7",
+    "carbs": "7.7",
+    "fat": "0.3"
+  },
+  {
+    "name": "Blueberry",
+    "category": "Fruits",
+    "calories": "57",
+    "protein": "0.7",
+    "carbs": "14.5",
+    "fat": "0.3"
+  },
+  {
+    "name": "Raspberry",
+    "category": "Fruits",
+    "calories": "52",
+    "protein": "1.2",
+    "carbs": "11.9",
+    "fat": "0.7"
+  },
+  {
+    "name": "Blackberry",
+    "category": "Fruits",
+    "calories": "43",
+    "protein": "1.4",
+    "carbs": "9.6",
+    "fat": "0.5"
+  },
+  {
+    "name": "Cranberry",
+    "category": "Fruits",
+    "calories": "46",
+    "protein": "0.4",
+    "carbs": "12.2",
+    "fat": "0.1"
+  },
+  {
+    "name": "Cherry",
+    "category": "Fruits",
+    "calories": "63",
+    "protein": "1.1",
+    "carbs": "16",
+    "fat": "0.2"
+  },
+  {
+    "name": "Grape (red)",
+    "category": "Fruits",
+    "calories": "69",
+    "protein": "0.7",
+    "carbs": "18.1",
+    "fat": "0.2"
+  },
+  {
+    "name": "Grape (green)",
+    "category": "Fruits",
+    "calories": "69",
+    "protein": "0.6",
+    "carbs": "17.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Watermelon",
+    "category": "Fruits",
+    "calories": "30",
+    "protein": "0.6",
+    "carbs": "7.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Cantaloupe",
+    "category": "Fruits",
+    "calories": "34",
+    "protein": "0.8",
+    "carbs": "8.2",
+    "fat": "0.2"
+  },
+  {
+    "name": "Honeydew melon",
+    "category": "Fruits",
+    "calories": "36",
+    "protein": "0.5",
+    "carbs": "9.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Peach",
+    "category": "Fruits",
+    "calories": "39",
+    "protein": "0.9",
+    "carbs": "9.5",
+    "fat": "0.3"
+  },
+  {
+    "name": "Nectarine",
+    "category": "Fruits",
+    "calories": "44",
+    "protein": "1.1",
+    "carbs": "10.6",
+    "fat": "0.3"
+  },
+  {
+    "name": "Plum",
+    "category": "Fruits",
+    "calories": "46",
+    "protein": "0.7",
+    "carbs": "11.4",
+    "fat": "0.3"
+  },
+  {
+    "name": "Apricot",
+    "category": "Fruits",
+    "calories": "48",
+    "protein": "1.4",
+    "carbs": "11.1",
+    "fat": "0.4"
+  },
+  {
+    "name": "Mango",
+    "category": "Fruits",
+    "calories": "60",
+    "protein": "0.8",
+    "carbs": "15",
+    "fat": "0.4"
+  },
+  {
+    "name": "Pineapple",
+    "category": "Fruits",
+    "calories": "50",
+    "protein": "0.5",
+    "carbs": "13.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Papaya",
+    "category": "Fruits",
+    "calories": "43",
+    "protein": "0.5",
+    "carbs": "10.8",
+    "fat": "0.3"
+  },
+  {
+    "name": "Kiwi",
+    "category": "Fruits",
+    "calories": "61",
+    "protein": "1.1",
+    "carbs": "14.7",
+    "fat": "0.5"
+  },
+  {
+    "name": "Guava",
+    "category": "Fruits",
+    "calories": "68",
+    "protein": "2.6",
+    "carbs": "14.3",
+    "fat": "1"
+  },
+  {
+    "name": "Passion fruit",
+    "category": "Fruits",
+    "calories": "97",
+    "protein": "2.2",
+    "carbs": "23.4",
+    "fat": "0.7"
+  },
+  {
+    "name": "Pomegranate",
+    "category": "Fruits",
+    "calories": "83",
+    "protein": "1.7",
+    "carbs": "18.7",
+    "fat": "1.2"
+  },
+  {
+    "name": "Fig",
+    "category": "Fruits",
+    "calories": "74",
+    "protein": "0.8",
+    "carbs": "19.2",
+    "fat": "0.3"
+  },
+  {
+    "name": "Date",
+    "category": "Fruits",
+    "calories": "277",
+    "protein": "1.8",
+    "carbs": "75",
+    "fat": "0.2"
+  },
+  {
+    "name": "Avocado",
+    "category": "Fruits",
+    "calories": "160",
+    "protein": "2",
+    "carbs": "8.5",
+    "fat": "14.7"
+  },
+  {
+    "name": "Coconut flesh",
+    "category": "Fruits",
+    "calories": "354",
+    "protein": "3.3",
+    "carbs": "15.2",
+    "fat": "33.5"
+  },
+  {
+    "name": "Lychee",
+    "category": "Fruits",
+    "calories": "66",
+    "protein": "0.8",
+    "carbs": "16.5",
+    "fat": "0.4"
+  },
+  {
+    "name": "Jackfruit",
+    "category": "Fruits",
+    "calories": "95",
+    "protein": "1.7",
+    "carbs": "23.2",
+    "fat": "0.6"
+  },
+  {
+    "name": "Dragon fruit",
+    "category": "Fruits",
+    "calories": "60",
+    "protein": "1.2",
+    "carbs": "13",
+    "fat": "0.4"
+  },
+  {
+    "name": "Persimmon",
+    "category": "Fruits",
+    "calories": "70",
+    "protein": "0.6",
+    "carbs": "18.6",
+    "fat": "0.2"
+  },
+  {
+    "name": "Quince",
+    "category": "Fruits",
+    "calories": "57",
+    "protein": "0.4",
+    "carbs": "15.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Mulberry",
+    "category": "Fruits",
+    "calories": "43",
+    "protein": "1.4",
+    "carbs": "9.8",
+    "fat": "0.4"
+  },
+  {
+    "name": "Gooseberry",
+    "category": "Fruits",
+    "calories": "44",
+    "protein": "0.9",
+    "carbs": "10.2",
+    "fat": "0.6"
+  },
+  {
+    "name": "Tamarind",
+    "category": "Fruits",
+    "calories": "239",
+    "protein": "2.8",
+    "carbs": "62.5",
+    "fat": "0.6"
+  },
+  {
+    "name": "Starfruit",
+    "category": "Fruits",
+    "calories": "31",
+    "protein": "1",
+    "carbs": "6.7",
+    "fat": "0.3"
+  },
+  {
+    "name": "Breadfruit",
+    "category": "Fruits",
+    "calories": "103",
+    "protein": "1.1",
+    "carbs": "27.1",
+    "fat": "0.2"
+  },
+  {
+    "name": "Raisin",
+    "category": "Fruits",
+    "calories": "299",
+    "protein": "3.1",
+    "carbs": "79.2",
+    "fat": "0.5"
+  },
+  {
+    "name": "Dried apricot",
+    "category": "Fruits",
+    "calories": "241",
+    "protein": "3.4",
+    "carbs": "62.6",
+    "fat": "0.5"
+  },
+  {
+    "name": "Dried fig",
+    "category": "Fruits",
+    "calories": "249",
+    "protein": "3.3",
+    "carbs": "63.9",
+    "fat": "0.9"
+  },
+  {
+    "name": "Prune",
+    "category": "Fruits",
+    "calories": "240",
+    "protein": "2.2",
+    "carbs": "63.9",
+    "fat": "0.4"
+  },
+  {
+    "name": "Dried mango",
+    "category": "Fruits",
+    "calories": "314",
+    "protein": "2.5",
+    "carbs": "78.6",
+    "fat": "1.2"
+  },
+  {
+    "name": "Dried cranberry",
+    "category": "Fruits",
+    "calories": "308",
+    "protein": "0.1",
+    "carbs": "82.4",
+    "fat": "1.4"
+  },
+  {
+    "name": "Dried date",
+    "category": "Fruits",
+    "calories": "282",
+    "protein": "2.5",
+    "carbs": "75",
+    "fat": "0.4"
+  },
+  {
+    "name": "Almonds",
+    "category": "Nuts & seeds",
+    "calories": "579",
+    "protein": "21.2",
+    "carbs": "21.6",
+    "fat": "49.9"
+  },
+  {
+    "name": "Walnuts",
+    "category": "Nuts & seeds",
+    "calories": "654",
+    "protein": "15.2",
+    "carbs": "13.7",
+    "fat": "65.2"
+  },
+  {
+    "name": "Cashews",
+    "category": "Nuts & seeds",
+    "calories": "553",
+    "protein": "18.2",
+    "carbs": "30.2",
+    "fat": "43.8"
+  },
+  {
+    "name": "Pistachios",
+    "category": "Nuts & seeds",
+    "calories": "562",
+    "protein": "20.2",
+    "carbs": "27.2",
+    "fat": "45.3"
+  },
+  {
+    "name": "Hazelnuts",
+    "category": "Nuts & seeds",
+    "calories": "628",
+    "protein": "15",
+    "carbs": "16.7",
+    "fat": "60.8"
+  },
+  {
+    "name": "Macadamia nuts",
+    "category": "Nuts & seeds",
+    "calories": "718",
+    "protein": "7.9",
+    "carbs": "13.8",
+    "fat": "75.8"
+  },
+  {
+    "name": "Brazil nuts",
+    "category": "Nuts & seeds",
+    "calories": "659",
+    "protein": "14.3",
+    "carbs": "12.3",
+    "fat": "67.1"
+  },
+  {
+    "name": "Pecans",
+    "category": "Nuts & seeds",
+    "calories": "691",
+    "protein": "9.2",
+    "carbs": "13.9",
+    "fat": "71.9"
+  },
+  {
+    "name": "Pine nuts",
+    "category": "Nuts & seeds",
+    "calories": "673",
+    "protein": "13.7",
+    "carbs": "13.1",
+    "fat": "68.4"
+  },
+  {
+    "name": "Peanuts",
+    "category": "Nuts & seeds",
+    "calories": "567",
+    "protein": "25.8",
+    "carbs": "16.1",
+    "fat": "49.2"
+  },
+  {
+    "name": "Chestnuts",
+    "category": "Nuts & seeds",
+    "calories": "245",
+    "protein": "3.2",
+    "carbs": "52.7",
+    "fat": "2.2"
+  },
+  {
+    "name": "Peanut butter",
+    "category": "Nuts & seeds",
+    "calories": "588",
+    "protein": "25.1",
+    "carbs": "20.1",
+    "fat": "50.4"
+  },
+  {
+    "name": "Almond butter",
+    "category": "Nuts & seeds",
+    "calories": "614",
+    "protein": "20.9",
+    "carbs": "18.8",
+    "fat": "55.5"
+  },
+  {
+    "name": "Cashew butter",
+    "category": "Nuts & seeds",
+    "calories": "587",
+    "protein": "17.5",
+    "carbs": "27.6",
+    "fat": "49.4"
+  },
+  {
+    "name": "Tahini",
+    "category": "Nuts & seeds",
+    "calories": "595",
+    "protein": "17",
+    "carbs": "21.2",
+    "fat": "53.8"
+  },
+  {
+    "name": "Chia seeds",
+    "category": "Nuts & seeds",
+    "calories": "486",
+    "protein": "16.5",
+    "carbs": "42.1",
+    "fat": "30.7"
+  },
+  {
+    "name": "Flaxseeds",
+    "category": "Nuts & seeds",
+    "calories": "534",
+    "protein": "18.3",
+    "carbs": "28.9",
+    "fat": "42.2"
+  },
+  {
+    "name": "Sunflower seeds",
+    "category": "Nuts & seeds",
+    "calories": "584",
+    "protein": "20.8",
+    "carbs": "20",
+    "fat": "51.5"
+  },
+  {
+    "name": "Pumpkin seeds",
+    "category": "Nuts & seeds",
+    "calories": "559",
+    "protein": "30.2",
+    "carbs": "10.7",
+    "fat": "49.1"
+  },
+  {
+    "name": "Sesame seeds",
+    "category": "Nuts & seeds",
+    "calories": "573",
+    "protein": "17.7",
+    "carbs": "23.5",
+    "fat": "49.7"
+  },
+  {
+    "name": "Hemp seeds",
+    "category": "Nuts & seeds",
+    "calories": "553",
+    "protein": "31.6",
+    "carbs": "8.7",
+    "fat": "48.8"
+  },
+  {
+    "name": "Poppy seeds",
+    "category": "Nuts & seeds",
+    "calories": "525",
+    "protein": "17.9",
+    "carbs": "28.1",
+    "fat": "41.6"
+  },
+  {
+    "name": "Cacao nibs",
+    "category": "Nuts & seeds",
+    "calories": "480",
+    "protein": "15",
+    "carbs": "34",
+    "fat": "38"
+  },
+  {
+    "name": "Coconut flakes",
+    "category": "Nuts & seeds",
+    "calories": "660",
+    "protein": "6.9",
+    "carbs": "23.7",
+    "fat": "64.5"
+  },
+  {
+    "name": "Psyllium husk",
+    "category": "Nuts & seeds",
+    "calories": "200",
+    "protein": "3.4",
+    "carbs": "84.9",
+    "fat": "0.6"
+  },
+  {
+    "name": "Olive oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Extra virgin olive oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Coconut oil",
+    "category": "Oils & fats",
+    "calories": "862",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Sunflower oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Canola oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Vegetable oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Sesame oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Avocado oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Peanut oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Walnut oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Flaxseed oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Grapeseed oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Almond oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Hazelnut oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Macadamia oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Rice bran oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Palm oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Corn oil",
+    "category": "Oils & fats",
+    "calories": "884",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Ghee",
+    "category": "Oils & fats",
+    "calories": "900",
+    "protein": "0.3",
+    "carbs": "0",
+    "fat": "99.8"
+  },
+  {
+    "name": "Lard",
+    "category": "Oils & fats",
+    "calories": "902",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Duck fat",
+    "category": "Oils & fats",
+    "calories": "882",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "99.8"
+  },
+  {
+    "name": "Beef tallow",
+    "category": "Oils & fats",
+    "calories": "902",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "100"
+  },
+  {
+    "name": "Margarine",
+    "category": "Oils & fats",
+    "calories": "719",
+    "protein": "0.2",
+    "carbs": "0.7",
+    "fat": "80.7"
+  },
+  {
+    "name": "Mayonnaise",
+    "category": "Oils & fats",
+    "calories": "680",
+    "protein": "1",
+    "carbs": "0.6",
+    "fat": "75"
+  },
+  {
+    "name": "Coconut cream",
+    "category": "Oils & fats",
+    "calories": "330",
+    "protein": "3.6",
+    "carbs": "6.7",
+    "fat": "34.7"
+  },
+  {
+    "name": "Coconut milk (canned)",
+    "category": "Oils & fats",
+    "calories": "197",
+    "protein": "2",
+    "carbs": "2.8",
+    "fat": "21.3"
+  },
+  {
+    "name": "Olives (green)",
+    "category": "Oils & fats",
+    "calories": "145",
+    "protein": "1",
+    "carbs": "3.8",
+    "fat": "15.3"
+  },
+  {
+    "name": "Olives (black)",
+    "category": "Oils & fats",
+    "calories": "115",
+    "protein": "0.8",
+    "carbs": "6.3",
+    "fat": "10.9"
+  },
+  {
+    "name": "Salt",
+    "category": "Herbs & spices",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Black pepper",
+    "category": "Herbs & spices",
+    "calories": "251",
+    "protein": "10.4",
+    "carbs": "63.9",
+    "fat": "3.3"
+  },
+  {
+    "name": "White pepper",
+    "category": "Herbs & spices",
+    "calories": "296",
+    "protein": "10.4",
+    "carbs": "68.6",
+    "fat": "2.1"
+  },
+  {
+    "name": "Red pepper flakes",
+    "category": "Herbs & spices",
+    "calories": "318",
+    "protein": "12",
+    "carbs": "56.6",
+    "fat": "17.3"
+  },
+  {
+    "name": "Paprika",
+    "category": "Herbs & spices",
+    "calories": "282",
+    "protein": "14.1",
+    "carbs": "53.9",
+    "fat": "12.9"
+  },
+  {
+    "name": "Smoked paprika",
+    "category": "Herbs & spices",
+    "calories": "282",
+    "protein": "14.1",
+    "carbs": "53.9",
+    "fat": "12.9"
+  },
+  {
+    "name": "Cayenne pepper",
+    "category": "Herbs & spices",
+    "calories": "318",
+    "protein": "12",
+    "carbs": "56.6",
+    "fat": "17.3"
+  },
+  {
+    "name": "Chili powder",
+    "category": "Herbs & spices",
+    "calories": "282",
+    "protein": "13.5",
+    "carbs": "49.7",
+    "fat": "14.3"
+  },
+  {
+    "name": "Cumin (ground)",
+    "category": "Herbs & spices",
+    "calories": "375",
+    "protein": "17.8",
+    "carbs": "44.2",
+    "fat": "22.3"
+  },
+  {
+    "name": "Coriander (ground)",
+    "category": "Herbs & spices",
+    "calories": "298",
+    "protein": "12.4",
+    "carbs": "54.9",
+    "fat": "17.8"
+  },
+  {
+    "name": "Turmeric (ground)",
+    "category": "Herbs & spices",
+    "calories": "312",
+    "protein": "9.7",
+    "carbs": "67.1",
+    "fat": "3.3"
+  },
+  {
+    "name": "Cinnamon (ground)",
+    "category": "Herbs & spices",
+    "calories": "247",
+    "protein": "4",
+    "carbs": "80.6",
+    "fat": "1.2"
+  },
+  {
+    "name": "Ginger (ground)",
+    "category": "Herbs & spices",
+    "calories": "335",
+    "protein": "8.9",
+    "carbs": "71.6",
+    "fat": "4.2"
+  },
+  {
+    "name": "Garlic powder",
+    "category": "Herbs & spices",
+    "calories": "331",
+    "protein": "16.6",
+    "carbs": "72.7",
+    "fat": "0.7"
+  },
+  {
+    "name": "Onion powder",
+    "category": "Herbs & spices",
+    "calories": "341",
+    "protein": "10.4",
+    "carbs": "79.1",
+    "fat": "0.5"
+  },
+  {
+    "name": "Cardamom (ground)",
+    "category": "Herbs & spices",
+    "calories": "311",
+    "protein": "10.8",
+    "carbs": "68.5",
+    "fat": "6.7"
+  },
+  {
+    "name": "Cloves (ground)",
+    "category": "Herbs & spices",
+    "calories": "274",
+    "protein": "6",
+    "carbs": "65.5",
+    "fat": "13"
+  },
+  {
+    "name": "Nutmeg (ground)",
+    "category": "Herbs & spices",
+    "calories": "525",
+    "protein": "5.8",
+    "carbs": "49.3",
+    "fat": "36.3"
+  },
+  {
+    "name": "Allspice (ground)",
+    "category": "Herbs & spices",
+    "calories": "263",
+    "protein": "6.1",
+    "carbs": "72.1",
+    "fat": "8.7"
+  },
+  {
+    "name": "Star anise",
+    "category": "Herbs & spices",
+    "calories": "337",
+    "protein": "17.6",
+    "carbs": "50",
+    "fat": "15.9"
+  },
+  {
+    "name": "Fennel seeds",
+    "category": "Herbs & spices",
+    "calories": "345",
+    "protein": "15.8",
+    "carbs": "52.3",
+    "fat": "14.9"
+  },
+  {
+    "name": "Caraway seeds",
+    "category": "Herbs & spices",
+    "calories": "333",
+    "protein": "19.8",
+    "carbs": "49.9",
+    "fat": "14.6"
+  },
+  {
+    "name": "Mustard seeds",
+    "category": "Herbs & spices",
+    "calories": "508",
+    "protein": "26.1",
+    "carbs": "28.1",
+    "fat": "36.2"
+  },
+  {
+    "name": "Fenugreek seeds",
+    "category": "Herbs & spices",
+    "calories": "323",
+    "protein": "23",
+    "carbs": "58.4",
+    "fat": "6.4"
+  },
+  {
+    "name": "Nigella seeds",
+    "category": "Herbs & spices",
+    "calories": "345",
+    "protein": "16.8",
+    "carbs": "44.2",
+    "fat": "22.3"
+  },
+  {
+    "name": "Sumac",
+    "category": "Herbs & spices",
+    "calories": "279",
+    "protein": "3.3",
+    "carbs": "72.2",
+    "fat": "6"
+  },
+  {
+    "name": "Za'atar",
+    "category": "Herbs & spices",
+    "calories": "270",
+    "protein": "10",
+    "carbs": "45",
+    "fat": "12"
+  },
+  {
+    "name": "Baharat",
+    "category": "Herbs & spices",
+    "calories": "280",
+    "protein": "11",
+    "carbs": "52",
+    "fat": "11"
+  },
+  {
+    "name": "Ras el hanout",
+    "category": "Herbs & spices",
+    "calories": "275",
+    "protein": "10.5",
+    "carbs": "50",
+    "fat": "12.5"
+  },
+  {
+    "name": "Garam masala",
+    "category": "Herbs & spices",
+    "calories": "379",
+    "protein": "14.1",
+    "carbs": "50.4",
+    "fat": "16.2"
+  },
+  {
+    "name": "Curry powder",
+    "category": "Herbs & spices",
+    "calories": "325",
+    "protein": "14.3",
+    "carbs": "55.8",
+    "fat": "14"
+  },
+  {
+    "name": "Five spice powder",
+    "category": "Herbs & spices",
+    "calories": "294",
+    "protein": "5.2",
+    "carbs": "71.3",
+    "fat": "3.8"
+  },
+  {
+    "name": "Saffron",
+    "category": "Herbs & spices",
+    "calories": "310",
+    "protein": "11.4",
+    "carbs": "65.4",
+    "fat": "5.9"
+  },
+  {
+    "name": "Basil (dried)",
+    "category": "Herbs & spices",
+    "calories": "233",
+    "protein": "22.4",
+    "carbs": "47.8",
+    "fat": "4"
+  },
+  {
+    "name": "Basil (fresh)",
+    "category": "Herbs & spices",
+    "calories": "23",
+    "protein": "3.2",
+    "carbs": "2.7",
+    "fat": "0.6"
+  },
+  {
+    "name": "Oregano (dried)",
+    "category": "Herbs & spices",
+    "calories": "265",
+    "protein": "9",
+    "carbs": "68.9",
+    "fat": "4.3"
+  },
+  {
+    "name": "Oregano (fresh)",
+    "category": "Herbs & spices",
+    "calories": "36",
+    "protein": "3.9",
+    "carbs": "8.3",
+    "fat": "0.6"
+  },
+  {
+    "name": "Thyme (dried)",
+    "category": "Herbs & spices",
+    "calories": "276",
+    "protein": "9.1",
+    "carbs": "63.9",
+    "fat": "7.4"
+  },
+  {
+    "name": "Thyme (fresh)",
+    "category": "Herbs & spices",
+    "calories": "101",
+    "protein": "5.6",
+    "carbs": "24.5",
+    "fat": "1.7"
+  },
+  {
+    "name": "Rosemary (dried)",
+    "category": "Herbs & spices",
+    "calories": "331",
+    "protein": "4.9",
+    "carbs": "64.1",
+    "fat": "15.2"
+  },
+  {
+    "name": "Rosemary (fresh)",
+    "category": "Herbs & spices",
+    "calories": "131",
+    "protein": "3.3",
+    "carbs": "20.7",
+    "fat": "5.9"
+  },
+  {
+    "name": "Parsley (dried)",
+    "category": "Herbs & spices",
+    "calories": "292",
+    "protein": "26.6",
+    "carbs": "50.6",
+    "fat": "5.5"
+  },
+  {
+    "name": "Parsley (fresh)",
+    "category": "Herbs & spices",
+    "calories": "36",
+    "protein": "3",
+    "carbs": "6.3",
+    "fat": "0.8"
+  },
+  {
+    "name": "Cilantro (fresh)",
+    "category": "Herbs & spices",
+    "calories": "23",
+    "protein": "2.1",
+    "carbs": "3.7",
+    "fat": "0.5"
+  },
+  {
+    "name": "Mint (fresh)",
+    "category": "Herbs & spices",
+    "calories": "70",
+    "protein": "3.8",
+    "carbs": "14.9",
+    "fat": "0.9"
+  },
+  {
+    "name": "Mint (dried)",
+    "category": "Herbs & spices",
+    "calories": "285",
+    "protein": "19.9",
+    "carbs": "52.3",
+    "fat": "6"
+  },
+  {
+    "name": "Dill (fresh)",
+    "category": "Herbs & spices",
+    "calories": "43",
+    "protein": "3.5",
+    "carbs": "7",
+    "fat": "1.1"
+  },
+  {
+    "name": "Dill (dried)",
+    "category": "Herbs & spices",
+    "calories": "253",
+    "protein": "19.9",
+    "carbs": "55.8",
+    "fat": "4.4"
+  },
+  {
+    "name": "Chives (fresh)",
+    "category": "Herbs & spices",
+    "calories": "30",
+    "protein": "3.3",
+    "carbs": "4.4",
+    "fat": "0.7"
+  },
+  {
+    "name": "Sage (dried)",
+    "category": "Herbs & spices",
+    "calories": "315",
+    "protein": "10.6",
+    "carbs": "60.7",
+    "fat": "12.7"
+  },
+  {
+    "name": "Sage (fresh)",
+    "category": "Herbs & spices",
+    "calories": "315",
+    "protein": "3.7",
+    "carbs": "60.7",
+    "fat": "12.7"
+  },
+  {
+    "name": "Bay leaves (dried)",
+    "category": "Herbs & spices",
+    "calories": "313",
+    "protein": "7.6",
+    "carbs": "74.9",
+    "fat": "8.4"
+  },
+  {
+    "name": "Tarragon (fresh)",
+    "category": "Herbs & spices",
+    "calories": "295",
+    "protein": "22.8",
+    "carbs": "50.2",
+    "fat": "7.2"
+  },
+  {
+    "name": "Lemon zest",
+    "category": "Herbs & spices",
+    "calories": "47",
+    "protein": "1.5",
+    "carbs": "16",
+    "fat": "0.3"
+  },
+  {
+    "name": "Orange zest",
+    "category": "Herbs & spices",
+    "calories": "97",
+    "protein": "1.5",
+    "carbs": "25",
+    "fat": "0.2"
+  },
+  {
+    "name": "Vanilla bean",
+    "category": "Herbs & spices",
+    "calories": "288",
+    "protein": "0.1",
+    "carbs": "12.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Vanilla extract",
+    "category": "Herbs & spices",
+    "calories": "288",
+    "protein": "0.1",
+    "carbs": "12.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Chicken stock",
+    "category": "Condiments & sauces",
+    "calories": "15",
+    "protein": "1.5",
+    "carbs": "0.1",
+    "fat": "0.5"
+  },
+  {
+    "name": "Beef stock",
+    "category": "Condiments & sauces",
+    "calories": "13",
+    "protein": "1.6",
+    "carbs": "0.1",
+    "fat": "0.5"
+  },
+  {
+    "name": "Vegetable stock",
+    "category": "Condiments & sauces",
+    "calories": "7",
+    "protein": "0.2",
+    "carbs": "1.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Fish stock",
+    "category": "Condiments & sauces",
+    "calories": "9",
+    "protein": "1.7",
+    "carbs": "0",
+    "fat": "0.2"
+  },
+  {
+    "name": "Lamb stock",
+    "category": "Condiments & sauces",
+    "calories": "14",
+    "protein": "1.5",
+    "carbs": "0.1",
+    "fat": "0.5"
+  },
+  {
+    "name": "Tomato paste",
+    "category": "Condiments & sauces",
+    "calories": "82",
+    "protein": "4.3",
+    "carbs": "18.9",
+    "fat": "0.5"
+  },
+  {
+    "name": "Tomato sauce",
+    "category": "Condiments & sauces",
+    "calories": "29",
+    "protein": "1.5",
+    "carbs": "6.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Canned tomatoes",
+    "category": "Condiments & sauces",
+    "calories": "32",
+    "protein": "1.6",
+    "carbs": "6.3",
+    "fat": "0.3"
+  },
+  {
+    "name": "Ketchup",
+    "category": "Condiments & sauces",
+    "calories": "101",
+    "protein": "1.7",
+    "carbs": "25.8",
+    "fat": "0.1"
+  },
+  {
+    "name": "Mustard (yellow)",
+    "category": "Condiments & sauces",
+    "calories": "66",
+    "protein": "4.4",
+    "carbs": "5.8",
+    "fat": "3.3"
+  },
+  {
+    "name": "Dijon mustard",
+    "category": "Condiments & sauces",
+    "calories": "66",
+    "protein": "3.8",
+    "carbs": "8.3",
+    "fat": "3.6"
+  },
+  {
+    "name": "Wholegrain mustard",
+    "category": "Condiments & sauces",
+    "calories": "138",
+    "protein": "8.1",
+    "carbs": "9.3",
+    "fat": "8.3"
+  },
+  {
+    "name": "Soy sauce",
+    "category": "Condiments & sauces",
+    "calories": "53",
+    "protein": "5.6",
+    "carbs": "4.9",
+    "fat": "0.1"
+  },
+  {
+    "name": "Tamari",
+    "category": "Condiments & sauces",
+    "calories": "61",
+    "protein": "10.9",
+    "carbs": "5.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Fish sauce",
+    "category": "Condiments & sauces",
+    "calories": "35",
+    "protein": "5",
+    "carbs": "3.6",
+    "fat": "0.1"
+  },
+  {
+    "name": "Oyster sauce",
+    "category": "Condiments & sauces",
+    "calories": "51",
+    "protein": "1.4",
+    "carbs": "11.1",
+    "fat": "0.3"
+  },
+  {
+    "name": "Worcestershire sauce",
+    "category": "Condiments & sauces",
+    "calories": "78",
+    "protein": "0.3",
+    "carbs": "20",
+    "fat": "0.1"
+  },
+  {
+    "name": "Hot sauce",
+    "category": "Condiments & sauces",
+    "calories": "11",
+    "protein": "0.5",
+    "carbs": "1.6",
+    "fat": "0.4"
+  },
+  {
+    "name": "Sriracha",
+    "category": "Condiments & sauces",
+    "calories": "93",
+    "protein": "2",
+    "carbs": "18.8",
+    "fat": "2.5"
+  },
+  {
+    "name": "Hoisin sauce",
+    "category": "Condiments & sauces",
+    "calories": "220",
+    "protein": "4.4",
+    "carbs": "42",
+    "fat": "4.5"
+  },
+  {
+    "name": "Teriyaki sauce",
+    "category": "Condiments & sauces",
+    "calories": "89",
+    "protein": "4.6",
+    "carbs": "15.2",
+    "fat": "1.1"
+  },
+  {
+    "name": "Sweet chili sauce",
+    "category": "Condiments & sauces",
+    "calories": "152",
+    "protein": "0.6",
+    "carbs": "37.2",
+    "fat": "0.2"
+  },
+  {
+    "name": "Harissa paste",
+    "category": "Condiments & sauces",
+    "calories": "133",
+    "protein": "4.5",
+    "carbs": "13",
+    "fat": "7.5"
+  },
+  {
+    "name": "Tahini sauce",
+    "category": "Condiments & sauces",
+    "calories": "595",
+    "protein": "17",
+    "carbs": "21.2",
+    "fat": "53.8"
+  },
+  {
+    "name": "Pesto (basil)",
+    "category": "Condiments & sauces",
+    "calories": "396",
+    "protein": "8.5",
+    "carbs": "7.4",
+    "fat": "39.3"
+  },
+  {
+    "name": "Tomato passata",
+    "category": "Condiments & sauces",
+    "calories": "35",
+    "protein": "1.8",
+    "carbs": "7.3",
+    "fat": "0.2"
+  },
+  {
+    "name": "Apple cider vinegar",
+    "category": "Condiments & sauces",
+    "calories": "22",
+    "protein": "0",
+    "carbs": "0.9",
+    "fat": "0"
+  },
+  {
+    "name": "White wine vinegar",
+    "category": "Condiments & sauces",
+    "calories": "18",
+    "protein": "0",
+    "carbs": "0.6",
+    "fat": "0"
+  },
+  {
+    "name": "Red wine vinegar",
+    "category": "Condiments & sauces",
+    "calories": "19",
+    "protein": "0",
+    "carbs": "0.7",
+    "fat": "0"
+  },
+  {
+    "name": "Balsamic vinegar",
+    "category": "Condiments & sauces",
+    "calories": "88",
+    "protein": "0.5",
+    "carbs": "17",
+    "fat": "0"
+  },
+  {
+    "name": "Rice vinegar",
+    "category": "Condiments & sauces",
+    "calories": "18",
+    "protein": "0.1",
+    "carbs": "1",
+    "fat": "0"
+  },
+  {
+    "name": "Malt vinegar",
+    "category": "Condiments & sauces",
+    "calories": "14",
+    "protein": "0.1",
+    "carbs": "1.1",
+    "fat": "0"
+  },
+  {
+    "name": "Lemon juice",
+    "category": "Condiments & sauces",
+    "calories": "22",
+    "protein": "0.4",
+    "carbs": "6.9",
+    "fat": "0.2"
+  },
+  {
+    "name": "Lime juice",
+    "category": "Condiments & sauces",
+    "calories": "25",
+    "protein": "0.4",
+    "carbs": "8.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Mirin",
+    "category": "Condiments & sauces",
+    "calories": "258",
+    "protein": "2.6",
+    "carbs": "54.5",
+    "fat": "0"
+  },
+  {
+    "name": "Sake",
+    "category": "Condiments & sauces",
+    "calories": "134",
+    "protein": "0.5",
+    "carbs": "5",
+    "fat": "0"
+  },
+  {
+    "name": "White wine",
+    "category": "Condiments & sauces",
+    "calories": "82",
+    "protein": "0.1",
+    "carbs": "2.6",
+    "fat": "0"
+  },
+  {
+    "name": "Red wine",
+    "category": "Condiments & sauces",
+    "calories": "85",
+    "protein": "0.1",
+    "carbs": "2.7",
+    "fat": "0"
+  },
+  {
+    "name": "Coconut aminos",
+    "category": "Condiments & sauces",
+    "calories": "47",
+    "protein": "0.5",
+    "carbs": "11.1",
+    "fat": "0"
+  },
+  {
+    "name": "Tamarind paste",
+    "category": "Condiments & sauces",
+    "calories": "239",
+    "protein": "2.8",
+    "carbs": "62.5",
+    "fat": "0.6"
+  },
+  {
+    "name": "Capers",
+    "category": "Condiments & sauces",
+    "calories": "23",
+    "protein": "2.4",
+    "carbs": "4.9",
+    "fat": "0.9"
+  },
+  {
+    "name": "Pickle (cucumber)",
+    "category": "Condiments & sauces",
+    "calories": "11",
+    "protein": "0.3",
+    "carbs": "2.3",
+    "fat": "0.2"
+  },
+  {
+    "name": "Sauerkraut",
+    "category": "Condiments & sauces",
+    "calories": "19",
+    "protein": "0.9",
+    "carbs": "4.3",
+    "fat": "0.1"
+  },
+  {
+    "name": "Kimchi",
+    "category": "Condiments & sauces",
+    "calories": "15",
+    "protein": "1.1",
+    "carbs": "2.4",
+    "fat": "0.5"
+  },
+  {
+    "name": "Roasted red peppers",
+    "category": "Condiments & sauces",
+    "calories": "31",
+    "protein": "0.9",
+    "carbs": "6.3",
+    "fat": "0.4"
+  },
+  {
+    "name": "Distilled white vinegar",
+    "category": "Condiments & sauces",
+    "calories": "18",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Sherry vinegar",
+    "category": "Condiments & sauces",
+    "calories": "19",
+    "protein": "0",
+    "carbs": "0.5",
+    "fat": "0"
+  },
+  {
+    "name": "Champagne vinegar",
+    "category": "Condiments & sauces",
+    "calories": "19",
+    "protein": "0",
+    "carbs": "0.5",
+    "fat": "0"
+  },
+  {
+    "name": "Barbecue sauce",
+    "category": "Condiments & sauces",
+    "calories": "172",
+    "protein": "1",
+    "carbs": "40",
+    "fat": "0.6"
+  },
+  {
+    "name": "Ranch dressing",
+    "category": "Condiments & sauces",
+    "calories": "430",
+    "protein": "1.8",
+    "carbs": "6.7",
+    "fat": "45"
+  },
+  {
+    "name": "Caesar dressing",
+    "category": "Condiments & sauces",
+    "calories": "542",
+    "protein": "3.2",
+    "carbs": "6",
+    "fat": "57"
+  },
+  {
+    "name": "Italian dressing",
+    "category": "Condiments & sauces",
+    "calories": "292",
+    "protein": "0.8",
+    "carbs": "5.3",
+    "fat": "30"
+  },
+  {
+    "name": "Honey mustard",
+    "category": "Condiments & sauces",
+    "calories": "360",
+    "protein": "3",
+    "carbs": "34",
+    "fat": "24"
+  },
+  {
+    "name": "Ponzu sauce",
+    "category": "Condiments & sauces",
+    "calories": "49",
+    "protein": "2.4",
+    "carbs": "8.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Gochujang",
+    "category": "Condiments & sauces",
+    "calories": "195",
+    "protein": "4.9",
+    "carbs": "43.5",
+    "fat": "2"
+  },
+  {
+    "name": "Sambal oelek",
+    "category": "Condiments & sauces",
+    "calories": "93",
+    "protein": "2.2",
+    "carbs": "17.4",
+    "fat": "2.6"
+  },
+  {
+    "name": "Chili crisp",
+    "category": "Condiments & sauces",
+    "calories": "570",
+    "protein": "4",
+    "carbs": "12",
+    "fat": "55"
+  },
+  {
+    "name": "Black bean sauce",
+    "category": "Condiments & sauces",
+    "calories": "103",
+    "protein": "6",
+    "carbs": "16",
+    "fat": "2"
+  },
+  {
+    "name": "Duck sauce",
+    "category": "Condiments & sauces",
+    "calories": "254",
+    "protein": "0.3",
+    "carbs": "63",
+    "fat": "0.1"
+  },
+  {
+    "name": "Marinara sauce",
+    "category": "Condiments & sauces",
+    "calories": "54",
+    "protein": "1.8",
+    "carbs": "8.4",
+    "fat": "1.8"
+  },
+  {
+    "name": "Alfredo sauce",
+    "category": "Condiments & sauces",
+    "calories": "414",
+    "protein": "7",
+    "carbs": "5",
+    "fat": "42"
+  },
+  {
+    "name": "Salsa roja",
+    "category": "Condiments & sauces",
+    "calories": "36",
+    "protein": "1.4",
+    "carbs": "7.2",
+    "fat": "0.4"
+  },
+  {
+    "name": "Salsa verde",
+    "category": "Condiments & sauces",
+    "calories": "30",
+    "protein": "1",
+    "carbs": "6",
+    "fat": "0.3"
+  },
+  {
+    "name": "Relish (sweet pickle)",
+    "category": "Condiments & sauces",
+    "calories": "122",
+    "protein": "0.5",
+    "carbs": "30.4",
+    "fat": "0.1"
+  },
+  {
+    "name": "Buffalo sauce",
+    "category": "Condiments & sauces",
+    "calories": "130",
+    "protein": "0.5",
+    "carbs": "3",
+    "fat": "13"
+  },
+  {
+    "name": "Water",
+    "category": "Baking & pantry",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Sugar (white)",
+    "category": "Baking & pantry",
+    "calories": "387",
+    "protein": "0",
+    "carbs": "99.9",
+    "fat": "0"
+  },
+  {
+    "name": "Sugar (brown)",
+    "category": "Baking & pantry",
+    "calories": "380",
+    "protein": "0.1",
+    "carbs": "98.1",
+    "fat": "0"
+  },
+  {
+    "name": "Powdered sugar",
+    "category": "Baking & pantry",
+    "calories": "389",
+    "protein": "0",
+    "carbs": "99.8",
+    "fat": "0"
+  },
+  {
+    "name": "Honey",
+    "category": "Baking & pantry",
+    "calories": "304",
+    "protein": "0.3",
+    "carbs": "82.4",
+    "fat": "0"
+  },
+  {
+    "name": "Maple syrup",
+    "category": "Baking & pantry",
+    "calories": "260",
+    "protein": "0",
+    "carbs": "67",
+    "fat": "0.1"
+  },
+  {
+    "name": "Agave syrup",
+    "category": "Baking & pantry",
+    "calories": "310",
+    "protein": "0.1",
+    "carbs": "76",
+    "fat": "0.5"
+  },
+  {
+    "name": "Molasses",
+    "category": "Baking & pantry",
+    "calories": "290",
+    "protein": "0",
+    "carbs": "74.7",
+    "fat": "0.1"
+  },
+  {
+    "name": "Golden syrup",
+    "category": "Baking & pantry",
+    "calories": "325",
+    "protein": "0.3",
+    "carbs": "84.1",
+    "fat": "0"
+  },
+  {
+    "name": "Coconut sugar",
+    "category": "Baking & pantry",
+    "calories": "375",
+    "protein": "0.2",
+    "carbs": "92.5",
+    "fat": "0.8"
+  },
+  {
+    "name": "Date syrup",
+    "category": "Baking & pantry",
+    "calories": "310",
+    "protein": "2.4",
+    "carbs": "76",
+    "fat": "0.1"
+  },
+  {
+    "name": "Stevia",
+    "category": "Baking & pantry",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Baking powder",
+    "category": "Baking & pantry",
+    "calories": "53",
+    "protein": "0",
+    "carbs": "27.7",
+    "fat": "0"
+  },
+  {
+    "name": "Baking soda",
+    "category": "Baking & pantry",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Dry active yeast",
+    "category": "Baking & pantry",
+    "calories": "325",
+    "protein": "40.4",
+    "carbs": "41.2",
+    "fat": "7.6"
+  },
+  {
+    "name": "Instant yeast",
+    "category": "Baking & pantry",
+    "calories": "325",
+    "protein": "40.4",
+    "carbs": "41.2",
+    "fat": "7.6"
+  },
+  {
+    "name": "Cocoa powder (unsweetened)",
+    "category": "Baking & pantry",
+    "calories": "228",
+    "protein": "19.6",
+    "carbs": "57.9",
+    "fat": "13.7"
+  },
+  {
+    "name": "Dark chocolate (70-85%)",
+    "category": "Baking & pantry",
+    "calories": "598",
+    "protein": "7.8",
+    "carbs": "45.9",
+    "fat": "42.6"
+  },
+  {
+    "name": "Milk chocolate",
+    "category": "Baking & pantry",
+    "calories": "535",
+    "protein": "7.7",
+    "carbs": "59.4",
+    "fat": "29.7"
+  },
+  {
+    "name": "White chocolate",
+    "category": "Baking & pantry",
+    "calories": "539",
+    "protein": "5.9",
+    "carbs": "59.2",
+    "fat": "30.9"
+  },
+  {
+    "name": "Chocolate chips (dark)",
+    "category": "Baking & pantry",
+    "calories": "598",
+    "protein": "7.8",
+    "carbs": "45.9",
+    "fat": "42.6"
+  },
+  {
+    "name": "Carob powder",
+    "category": "Baking & pantry",
+    "calories": "222",
+    "protein": "4.6",
+    "carbs": "88.9",
+    "fat": "0.7"
+  },
+  {
+    "name": "Gelatin (unflavored)",
+    "category": "Baking & pantry",
+    "calories": "335",
+    "protein": "85.6",
+    "carbs": "0",
+    "fat": "0.1"
+  },
+  {
+    "name": "Agar agar",
+    "category": "Baking & pantry",
+    "calories": "26",
+    "protein": "0.5",
+    "carbs": "6.8",
+    "fat": "0"
+  },
+  {
+    "name": "Pectin",
+    "category": "Baking & pantry",
+    "calories": "11",
+    "protein": "0.1",
+    "carbs": "2.5",
+    "fat": "0.1"
+  },
+  {
+    "name": "Cream of tartar",
+    "category": "Baking & pantry",
+    "calories": "184",
+    "protein": "0",
+    "carbs": "43.8",
+    "fat": "0"
+  },
+  {
+    "name": "Arrowroot powder",
+    "category": "Baking & pantry",
+    "calories": "357",
+    "protein": "0.3",
+    "carbs": "88.2",
+    "fat": "0.1"
+  },
+  {
+    "name": "Potato starch",
+    "category": "Baking & pantry",
+    "calories": "357",
+    "protein": "0.1",
+    "carbs": "83.1",
+    "fat": "0.1"
+  },
+  {
+    "name": "Breadcrumbs (panko)",
+    "category": "Baking & pantry",
+    "calories": "395",
+    "protein": "13",
+    "carbs": "72.5",
+    "fat": "5.3"
+  },
+  {
+    "name": "Nutritional yeast",
+    "category": "Baking & pantry",
+    "calories": "325",
+    "protein": "40.4",
+    "carbs": "41.2",
+    "fat": "7.6"
+  },
+  {
+    "name": "Miso (white)",
+    "category": "Baking & pantry",
+    "calories": "199",
+    "protein": "11.7",
+    "carbs": "26.5",
+    "fat": "6"
+  },
+  {
+    "name": "Miso (red)",
+    "category": "Baking & pantry",
+    "calories": "199",
+    "protein": "12.5",
+    "carbs": "24.3",
+    "fat": "6.3"
+  },
+  {
+    "name": "Rose water",
+    "category": "Baking & pantry",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Orange blossom water",
+    "category": "Baking & pantry",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Almond extract",
+    "category": "Baking & pantry",
+    "calories": "289",
+    "protein": "0.1",
+    "carbs": "11.7",
+    "fat": "0.5"
+  },
+  {
+    "name": "Coconut extract",
+    "category": "Baking & pantry",
+    "calories": "289",
+    "protein": "0.1",
+    "carbs": "11.7",
+    "fat": "0.5"
+  },
+  {
+    "name": "Self-rising flour",
+    "category": "Baking & pantry",
+    "calories": "364",
+    "protein": "10.2",
+    "carbs": "76",
+    "fat": "1"
+  },
+  {
+    "name": "Cake flour",
+    "category": "Baking & pantry",
+    "calories": "362",
+    "protein": "8.7",
+    "carbs": "77.5",
+    "fat": "1"
+  },
+  {
+    "name": "00 flour",
+    "category": "Baking & pantry",
+    "calories": "364",
+    "protein": "11",
+    "carbs": "76",
+    "fat": "1"
+  },
+  {
+    "name": "Corn syrup (light)",
+    "category": "Baking & pantry",
+    "calories": "286",
+    "protein": "0",
+    "carbs": "77",
+    "fat": "0"
+  },
+  {
+    "name": "Corn syrup (dark)",
+    "category": "Baking & pantry",
+    "calories": "283",
+    "protein": "0",
+    "carbs": "76",
+    "fat": "0"
+  },
+  {
+    "name": "Demerara sugar",
+    "category": "Baking & pantry",
+    "calories": "380",
+    "protein": "0",
+    "carbs": "98",
+    "fat": "0"
+  },
+  {
+    "name": "Turbinado sugar",
+    "category": "Baking & pantry",
+    "calories": "399",
+    "protein": "0",
+    "carbs": "99.8",
+    "fat": "0"
+  },
+  {
+    "name": "Maple sugar",
+    "category": "Baking & pantry",
+    "calories": "354",
+    "protein": "0",
+    "carbs": "89",
+    "fat": "0"
+  },
+  {
+    "name": "Barley malt syrup",
+    "category": "Baking & pantry",
+    "calories": "318",
+    "protein": "5",
+    "carbs": "76",
+    "fat": "0.2"
+  },
+  {
+    "name": "Malt extract",
+    "category": "Baking & pantry",
+    "calories": "324",
+    "protein": "6",
+    "carbs": "79",
+    "fat": "0.3"
+  },
+  {
+    "name": "Monosodium glutamate (MSG)",
+    "category": "Baking & pantry",
+    "calories": "0",
+    "protein": "0",
+    "carbs": "0",
+    "fat": "0"
+  },
+  {
+    "name": "Chicken bouillon cube",
+    "category": "Baking & pantry",
+    "calories": "248",
+    "protein": "9",
+    "carbs": "20",
+    "fat": "15"
+  },
+  {
+    "name": "Beef bouillon cube",
+    "category": "Baking & pantry",
+    "calories": "243",
+    "protein": "10",
+    "carbs": "19",
+    "fat": "14"
+  },
+  {
+    "name": "Vegetable bouillon cube",
+    "category": "Baking & pantry",
+    "calories": "210",
+    "protein": "4",
+    "carbs": "26",
+    "fat": "10"
+  },
+  {
+    "name": "Corn flour",
+    "category": "Baking & pantry",
+    "calories": "361",
+    "protein": "6.9",
+    "carbs": "79",
+    "fat": "1.5"
+  },
+  {
+    "name": "Rice paper",
+    "category": "Baking & pantry",
+    "calories": "333",
+    "protein": "5.8",
+    "carbs": "82",
+    "fat": "0.4"
+  }
+]

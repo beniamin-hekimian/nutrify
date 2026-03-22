@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Nutrify — instant macro calculator. Search 600 foods and get a full nutritional breakdown in seconds."
+    />
+    <title>Nutrify - Nutrition Calculator</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <div class="logo">Nutri<span>fy</span></div>
+      <div class="eyebrow">Nutrition Calculator</div>
+      <h1>Know your<br /><em>macros.</em></h1>
+      <p class="sub">
+        Find a food, set the amount and unit, and get a precise nutritional
+        breakdown in seconds
+      </p>
+      <div class="pill" id="food-count">Loading…</div>
+    </div>
+
+    <main class="main">
+      <div id="load-banner">
+        <p>
+          <strong>One step needed:</strong> Pick your
+          <code>foods.json</code> file.<br />
+          Needed when opening directly from disk instead of a local server.
+        </p>
+        <label class="btn-file-wrap">
+          <span class="btn-file-inner">Load foods.json</span>
+          <input type="file" accept=".json" id="file-picker" />
+        </label>
+      </div>
+
+      <div class="card">
+        <div class="card-label">Your Meal</div>
+        <div class="col-head">
+          <span>Food</span><span>Amount</span><span>Unit</span><span></span>
+        </div>
+        <div id="food-list"></div>
+        <div class="actions">
+          <button class="btn-add" id="btn-add">+ Add food</button>
+          <button class="btn-clr" id="btn-clr">Clear all</button>
+        </div>
+        <button class="btn-calc" id="btn-calc">Calculate Macros</button>
+        <div class="err" id="err"></div>
+        <div class="warn" id="warn"></div>
+      </div>
+
+      <div class="results" id="results">
+        <div class="card">
+          <div class="card-label">Totals</div>
+          <div class="tiles" id="tiles"></div>
+          <div id="bars"></div>
+        </div>
+        <div class="card">
+          <div class="card-label">Per Food</div>
+          <div style="overflow-x: auto">
+            <table class="bt" id="breakdown"></table>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      Nutrify · Made by
+      <a
+        href="https://github.com/beniamin-hekimian"
+        target="_blank"
+        rel="noopener"
+        >beniamin-hekimian</a
+      >
+      · Data from
+      <a href="https://fdc.nal.usda.gov" target="_blank" rel="noopener">USDA</a>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
