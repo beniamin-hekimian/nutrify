@@ -43,7 +43,7 @@ function parseRaw(raw) {
 function applyFoods(arr) {
   FOODS = arr;
   document.getElementById("food-count").textContent =
-    "● " + FOODS.length + " foods loaded";
+    FOODS.length + " foods loaded";
   document.getElementById("load-banner").style.display = "none";
   document.getElementById("err").style.display = "none";
 }
@@ -55,7 +55,7 @@ async function tryAutoLoad() {
     applyFoods(parseRaw(await r.json()));
   } catch {
     document.getElementById("load-banner").style.display = "flex";
-    document.getElementById("food-count").textContent = "● No data";
+    document.getElementById("food-count").textContent = "No data";
   }
 }
 
@@ -159,10 +159,16 @@ function onInput(id) {
 
 function renderDd(id, query) {
   const dd = document.getElementById("dd" + id);
+  const fi = document.getElementById("fi" + id);
   const results = searchFoods(query);
   dd._res = results;
   dd._hi = -1;
   dd.innerHTML = "";
+
+  // Position dropdown relative to input using fixed positioning
+  const rect = fi.getBoundingClientRect();
+  dd.style.top = rect.bottom + 4 + "px";
+  dd.style.left = rect.left + "px";
 
   if (!results.length) {
     dd.innerHTML = `<div class="dd-msg">No results for "${esc(query)}"</div>`;
@@ -381,6 +387,20 @@ document.addEventListener("click", (ev) => {
       dd.classList.remove("open");
   });
 });
+
+// ── Reposition dropdowns on scroll/resize ────────────────────────────────────
+function repositionDropdowns() {
+  document.querySelectorAll(".dd.open").forEach((dd) => {
+    const id = dd.id.replace("dd", "");
+    const fi = document.getElementById("fi" + id);
+    if (!fi) return;
+    const rect = fi.getBoundingClientRect();
+    dd.style.top = rect.bottom + 4 + "px";
+    dd.style.left = rect.left + "px";
+  });
+}
+window.addEventListener("scroll", repositionDropdowns, { passive: true });
+window.addEventListener("resize", repositionDropdowns, { passive: true });
 
 // ── Init ─────────────────────────────────────────────────────────────────────
 document.getElementById("btn-add").addEventListener("click", addRow);

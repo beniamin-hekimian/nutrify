@@ -51,7 +51,7 @@ html {
 /* ── Hero ── */
 .hero {
   text-align: center;
-  padding: 68px 24px 48px;
+  padding: 48px 24px 28px;
   background: radial-gradient(
     ellipse 55% 35% at 50% 0%,
     rgba(200, 241, 53, 0.08) 0%,
@@ -107,11 +107,17 @@ h1 em {
   padding: 5px 14px;
 }
 
+.pill::before {
+  content: "●";
+  color: var(--accent);
+  font-size: 8px;
+}
+
 /* ── Main ── */
 .main {
   max-width: 840px;
   margin: 0 auto;
-  padding: 36px 24px 80px;
+  padding: 28px 24px 40px;
 }
 
 /* ── Load banner ── */
@@ -315,10 +321,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 /* ── Dropdown ── */
 .dd {
-  position: absolute;
-  top: calc(100% + 4px);
-  left: 0;
-  right: 0;
+  position: fixed;
   z-index: 999;
   background: #21221f;
   border: 1px solid var(--border2);
@@ -328,6 +331,7 @@ input[type="number"]::-webkit-outer-spin-button {
   overflow-y: auto;
   display: none;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  width: min(480px, calc(100vw - 48px));
 }
 
 .dd.open {
@@ -593,9 +597,9 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .tv {
-  font-family: var(--font-display);
+  font-family: var(--font-body);
   font-size: 27px;
-  font-weight: 800;
+  font-weight: 700;
   line-height: 1;
 }
 
@@ -661,6 +665,7 @@ input[type="number"]::-webkit-outer-spin-button {
   color: var(--muted);
   width: 30px;
   text-align: right;
+  font-family: var(--font-body);
 }
 
 /* ── Breakdown table ── */
@@ -692,14 +697,13 @@ table.bt td {
 table.bt td:not(:first-child) {
   text-align: right;
   color: var(--muted);
-  font-variant-numeric: tabular-nums;
 }
 table.bt tbody tr:last-child td {
   border-bottom: none;
 }
 table.bt tfoot td {
   border-top: 1px solid var(--border2);
-  font-family: var(--font-display);
+  font-family: var(--font-body);
   font-weight: 700;
   padding: 11px 9px;
 }
@@ -728,13 +732,12 @@ footer {
 }
 
 footer span {
-  color: var(--muted);
+  color: var(--accent);
 }
 
 footer a {
   color: var(--muted);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
   transition: color 0.15s;
 }
 
